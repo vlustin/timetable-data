@@ -1,0 +1,12 @@
+{
+  "universities": [
+    {
+      "id": "rut-miit",
+      "name": "РУТ (МИИТ)"
+    },
+    {
+      "id": "spbu",
+      "name": "СПбГУ"
+    }
+  ]
+}
