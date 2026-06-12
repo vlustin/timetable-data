@@ -1,12 +1,19 @@
 {
+  "schemaVersion": 1,
   "universities": [
     {
-      "id": "rut-miit",
-      "name": "РУТ (МИИТ)"
+      "id": "moscow-rut-miit",
+      "name": "РУТ (МИИТ)",
+      "shortName": "МИИТ",
+      "city": "Москва",
+      "citySlug": "moscow"
     },
     {
-      "id": "spbu",
-      "name": "СПбГУ"
+      "id": "saint-petersburg-spbu",
+      "name": "СПбГУ",
+      "shortName": "СПбГУ",
+      "city": "Санкт-Петербург",
+      "citySlug": "saint-petersburg"
     }
   ]
 }
