@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "193630",
+  "group": "СММ-442",
+  "updatedAt": "2026-06-12T20:04:11+03:00",
+  "semester": {
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-30",
+    "firstWeekParity": "odd"
+  },
+  "events": [
+    {
+      "id": "moscow-rut-miit_193630_2026-06-09_0d50d6b6f557",
+      "date": "2026-06-09",
+      "weekday": "Вторник",
+      "weekdayNumber": 2,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Эксплуатация и реконструкция мостов",
+      "teacher": "Филаткин Андрей Сергеевич",
+      "room": "269",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/193630?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_193630_2026-06-10_d3d60a03c7a9",
+      "date": "2026-06-10",
+      "weekday": "Среда",
+      "weekdayNumber": 3,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Эксплуатация и реконструкция мостов",
+      "teacher": "Филаткин Андрей Сергеевич",
+      "room": "105",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/193630?start=2026-06-01&type=1"
+    }
+  ],
+  "lessons": {
+    "odd": [],
+    "even": []
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.2-js-smart-safe",
+    "timezone": "Europe/Moscow",
+    "errors": []
+  }
+}

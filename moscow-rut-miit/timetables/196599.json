@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "196599",
+  "group": "СГТ-141",
+  "updatedAt": "2026-06-12T20:00:36+03:00",
+  "semester": {
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-30",
+    "firstWeekParity": "odd"
+  },
+  "events": [
+    {
+      "id": "moscow-rut-miit_196599_2026-06-15_e7548bbdc741",
+      "date": "2026-06-15",
+      "weekday": "Понедельник",
+      "weekdayNumber": 1,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Инженерная геодезия и геоинформатика",
+      "teacher": "Скворцов Александр Дмитриевич",
+      "room": "14318",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/196599?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_196599_2026-06-16_2d1477350e22",
+      "date": "2026-06-16",
+      "weekday": "Вторник",
+      "weekdayNumber": 2,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Инженерная геодезия и геоинформатика",
+      "teacher": "Скворцов Александр Дмитриевич",
+      "room": "14318",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/196599?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_196599_2026-06-19_a58dd80d6bc9",
+      "date": "2026-06-19",
+      "weekday": "Пятница",
+      "weekdayNumber": 5,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Физика",
+      "teacher": "Крапивин Илья Игоревич",
+      "room": "14322",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/196599?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_196599_2026-06-22_45cd8541810b",
+      "date": "2026-06-22",
+      "weekday": "Понедельник",
+      "weekdayNumber": 1,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Физика",
+      "teacher": "Крапивин Илья Игоревич",
+      "room": "14322",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/196599?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_196599_2026-06-25_2ac0e7149e52",
+      "date": "2026-06-25",
+      "weekday": "Четверг",
+      "weekdayNumber": 4,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Английский язык",
+      "teacher": "Парастаева Светлана Георгиевна",
+      "room": "4330",
+      "address": "",
+      "groups": [
+        {
+          "id": "196599",
+          "name": "СГТ-141 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/196599?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_196599_2026-06-25_aae6685b3aec",
+      "date": "2026-06-25",
+      "weekday": "Четверг",
+      "weekdayNumber": 4,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Английский язык",
+      "teacher": "Макар Людмила Владимировна",
+      "room": "4329",
+      "address": "",
+      "groups": [
+        {
+          "id": "196599",
+          "name": "СГТ-141 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/196599?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_196599_2026-06-26_f9492b825ca2",
+      "date": "2026-06-26",
+      "weekday": "Пятница",
+      "weekdayNumber": 5,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Английский язык",
+      "teacher": "Парастаева Светлана Георгиевна",
+      "room": "4330",
+      "address": "",
+      "groups": [
+        {
+          "id": "196599",
+          "name": "СГТ-141 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/196599?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_196599_2026-06-26_c8b3c2ac7760",
+      "date": "2026-06-26",
+      "weekday": "Пятница",
+      "weekdayNumber": 5,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Английский язык",
+      "teacher": "Макар Людмила Владимировна",
+      "room": "4329",
+      "address": "",
+      "groups": [
+        {
+          "id": "196599",
+          "name": "СГТ-141 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/196599?start=2026-06-01&type=1"
+    }
+  ],
+  "lessons": {
+    "odd": [],
+    "even": []
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.2-js-smart-safe",
+    "timezone": "Europe/Moscow",
+    "errors": []
+  }
+}

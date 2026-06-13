@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "139704",
+  "group": "ЭЭТ-311",
+  "updatedAt": "2026-06-12T20:54:07+03:00",
+  "semester": {
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-30",
+    "firstWeekParity": "odd"
+  },
+  "events": [],
+  "lessons": {
+    "odd": [],
+    "even": []
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.2-js-smart-safe",
+    "timezone": "Europe/Moscow",
+    "errors": []
+  }
+}

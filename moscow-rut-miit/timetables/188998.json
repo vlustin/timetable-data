@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "188998",
+  "group": "ЭЛМ-311",
+  "updatedAt": "2026-06-12T20:49:26+03:00",
+  "semester": {
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-30",
+    "firstWeekParity": "odd"
+  },
+  "events": [
+    {
+      "id": "moscow-rut-miit_188998_2026-06-16_3e5b2e245215",
+      "date": "2026-06-16",
+      "weekday": "Вторник",
+      "weekdayNumber": 2,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Практикум по бизнес-коммуникации (второй иностранный язык)",
+      "teacher": "Медведева Юлия Евгеньевна",
+      "room": "2304",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-16_408853589402",
+      "date": "2026-06-16",
+      "weekday": "Вторник",
+      "weekdayNumber": 2,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Практикум по бизнес-коммуникации (второй иностранный язык)",
+      "teacher": "Боговская Ирина Вячеславовна",
+      "room": "2320",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-17_dc3d894793e3",
+      "date": "2026-06-17",
+      "weekday": "Среда",
+      "weekdayNumber": 3,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Практикум по бизнес-коммуникации (второй иностранный язык)",
+      "teacher": "Медведева Юлия Евгеньевна",
+      "room": "2304",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-17_a8ba7dadfd31",
+      "date": "2026-06-17",
+      "weekday": "Среда",
+      "weekdayNumber": 3,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Практикум по бизнес-коммуникации (второй иностранный язык)",
+      "teacher": "Боговская Ирина Вячеславовна",
+      "room": "2320",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-19_66ecf4c6848a",
+      "date": "2026-06-19",
+      "weekday": "Пятница",
+      "weekdayNumber": 5,
+      "time": "10:00 — 11:00",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Практикум по культуре речевого общения второго иностранного языка",
+      "teacher": "Голосова Ольга Михайловна",
+      "room": "3409",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-19_9a8c67d53464",
+      "date": "2026-06-19",
+      "weekday": "Пятница",
+      "weekdayNumber": 5,
+      "time": "10:00 — 11:00",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Практикум по культуре речевого общения второго иностранного языка",
+      "teacher": "Боговская Ирина Вячеславовна",
+      "room": "3604",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-22_5715376667fd",
+      "date": "2026-06-22",
+      "weekday": "Понедельник",
+      "weekdayNumber": 1,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Практикум по культуре речевого общения второго иностранного языка",
+      "teacher": "Голосова Ольга Михайловна",
+      "room": "3409",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-22_afba22c8d0f7",
+      "date": "2026-06-22",
+      "weekday": "Понедельник",
+      "weekdayNumber": 1,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Практикум по культуре речевого общения второго иностранного языка",
+      "teacher": "Боговская Ирина Вячеславовна",
+      "room": "3604",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-25_2f98c9555619",
+      "date": "2026-06-25",
+      "weekday": "Четверг",
+      "weekdayNumber": 4,
+      "time": "10:00 — 11:00",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Практикум по культуре речевого общения первого иностранного языка",
+      "teacher": "Львова Нина Иосифовна",
+      "room": "3604",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-25_a63ed665226d",
+      "date": "2026-06-25",
+      "weekday": "Четверг",
+      "weekdayNumber": 4,
+      "time": "10:00 — 11:00",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Практикум по культуре речевого общения первого иностранного языка",
+      "teacher": "Мухина Юлия Михайловна",
+      "room": "3205",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-26_71a98d1b9a0a",
+      "date": "2026-06-26",
+      "weekday": "Пятница",
+      "weekdayNumber": 5,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Практикум по культуре речевого общения первого иностранного языка",
+      "teacher": "Львова Нина Иосифовна",
+      "room": "3604",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_188998_2026-06-26_4cb14ff8f988",
+      "date": "2026-06-26",
+      "weekday": "Пятница",
+      "weekdayNumber": 5,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Практикум по культуре речевого общения первого иностранного языка",
+      "teacher": "Мухина Юлия Михайловна",
+      "room": "3301",
+      "address": "",
+      "groups": [
+        {
+          "id": "188998",
+          "name": "ЭЛМ-311 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/188998?start=2026-06-01&type=1"
+    }
+  ],
+  "lessons": {
+    "odd": [],
+    "even": []
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.2-js-smart-safe",
+    "timezone": "Europe/Moscow",
+    "errors": []
+  }
+}

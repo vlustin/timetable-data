@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "194461",
+  "group": "СММ-143",
+  "updatedAt": "2026-06-12T20:03:33+03:00",
+  "semester": {
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-30",
+    "firstWeekParity": "odd"
+  },
+  "events": [
+    {
+      "id": "moscow-rut-miit_194461_2026-06-16_b7d58129e564",
+      "date": "2026-06-16",
+      "weekday": "Вторник",
+      "weekdayNumber": 2,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Английский язык",
+      "teacher": "Ширшиков Владислав Борисович",
+      "room": "4327",
+      "address": "",
+      "groups": [
+        {
+          "id": "194461",
+          "name": "СММ-143 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/194461?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_194461_2026-06-16_98103b2dea90",
+      "date": "2026-06-16",
+      "weekday": "Вторник",
+      "weekdayNumber": 2,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Английский язык",
+      "teacher": "Симонова Светлана Валерьевна",
+      "room": "4319",
+      "address": "",
+      "groups": [
+        {
+          "id": "194461",
+          "name": "СММ-143 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/194461?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_194461_2026-06-17_c3f251dafa8c",
+      "date": "2026-06-17",
+      "weekday": "Среда",
+      "weekdayNumber": 3,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Английский язык",
+      "teacher": "Ширшиков Владислав Борисович",
+      "room": "4327",
+      "address": "",
+      "groups": [
+        {
+          "id": "194461",
+          "name": "СММ-143 п/гр.2"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/194461?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_194461_2026-06-17_10c5d1c91a0b",
+      "date": "2026-06-17",
+      "weekday": "Среда",
+      "weekdayNumber": 3,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Английский язык",
+      "teacher": "Симонова Светлана Валерьевна",
+      "room": "4319",
+      "address": "",
+      "groups": [
+        {
+          "id": "194461",
+          "name": "СММ-143 п/гр.1"
+        }
+      ],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/194461?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_194461_2026-06-20_219618a090aa",
+      "date": "2026-06-20",
+      "weekday": "Суббота",
+      "weekdayNumber": 6,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Физика",
+      "teacher": "Шилина Полина Васильевна",
+      "room": "14203",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/194461?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_194461_2026-06-22_3a72f54cf247",
+      "date": "2026-06-22",
+      "weekday": "Понедельник",
+      "weekdayNumber": 1,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Физика",
+      "teacher": "Шилина Полина Васильевна",
+      "room": "14203",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/194461?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_194461_2026-06-24_8510cf3b4978",
+      "date": "2026-06-24",
+      "weekday": "Среда",
+      "weekdayNumber": 3,
+      "time": "09:00 — 10:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "kind": "Консультация",
+      "category": "consultation",
+      "subject": "Инженерная геодезия и геоинформатика",
+      "teacher": "Сидоренко Татьяна Александровна",
+      "room": "14318",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/194461?start=2026-06-01&type=1"
+    },
+    {
+      "id": "moscow-rut-miit_194461_2026-06-25_d18040c5db53",
+      "date": "2026-06-25",
+      "weekday": "Четверг",
+      "weekdayNumber": 4,
+      "time": "11:00 — 18:00",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "kind": "Экзамен",
+      "category": "exam",
+      "subject": "Инженерная геодезия и геоинформатика",
+      "teacher": "Сидоренко Татьяна Александровна",
+      "room": "14318",
+      "address": "",
+      "groups": [],
+      "subgroup": "",
+      "note": "Экзамен",
+      "isOnline": false,
+      "onlineUrl": "",
+      "sourceType": 1,
+      "sourceUrl": "https://www.miit.ru/timetable/194461?start=2026-06-01&type=1"
+    }
+  ],
+  "lessons": {
+    "odd": [],
+    "even": []
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.2-js-smart-safe",
+    "timezone": "Europe/Moscow",
+    "errors": []
+  }
+}

@@ -1,0 +1,2958 @@
+{
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groups": [
+    {
+      "id": "197175",
+      "name": "АМБ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205393",
+      "name": "АМБ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "197176",
+      "name": "АМБ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "197177",
+      "name": "АМБ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202497",
+      "name": "АУБ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189053",
+      "name": "ВВП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190861",
+      "name": "ВВП-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190862",
+      "name": "ВВП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "184113",
+      "name": "ВГТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "198767",
+      "name": "ВГТ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "198768",
+      "name": "ВГТ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202181",
+      "name": "ВСВ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205320",
+      "name": "ВСВ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193534",
+      "name": "ВСВ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "204847",
+      "name": "ВСМ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193560",
+      "name": "ВСМ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193551",
+      "name": "ВСМ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193566",
+      "name": "ВСС-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "182043",
+      "name": "ВУТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "178116",
+      "name": "ВУТ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "178123",
+      "name": "ВУТ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "204838",
+      "name": "ВЭО-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193586",
+      "name": "ВЭО-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193577",
+      "name": "ВЭО-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196961",
+      "name": "ДДА-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196962",
+      "name": "ДДА-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196963",
+      "name": "ДДА-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196965",
+      "name": "ДДС-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196966",
+      "name": "ДДС-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196967",
+      "name": "ДДС-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196970",
+      "name": "ДДУ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202737",
+      "name": "ДДУ-191",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208220",
+      "name": "ОМБ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208215",
+      "name": "ОММ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193083",
+      "name": "ОММ-121",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193077",
+      "name": "ОММ-221",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193074",
+      "name": "ОММ-321",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193070",
+      "name": "ОММ-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193331",
+      "name": "ОМН-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "175083",
+      "name": "ОМН-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208222",
+      "name": "ОМО-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208226",
+      "name": "ОМО-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193334",
+      "name": "ОМО-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189046",
+      "name": "ОМО-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189047",
+      "name": "ОМО-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189179",
+      "name": "ОМО-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208303",
+      "name": "ПИН-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "210661",
+      "name": "ППК-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "203019",
+      "name": "ППС-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "203022",
+      "name": "ПРС-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "203023",
+      "name": "ПСЭ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "203017",
+      "name": "ПУИ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "122671",
+      "name": "САП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193341",
+      "name": "САП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "130728",
+      "name": "САП-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "140142",
+      "name": "САП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161930",
+      "name": "СГС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161931",
+      "name": "СГС-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193347",
+      "name": "СГС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161932",
+      "name": "СГС-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161933",
+      "name": "СГС-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161934",
+      "name": "СГС-213",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161935",
+      "name": "СГС-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161936",
+      "name": "СГС-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193094",
+      "name": "СГС-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193092",
+      "name": "СГС-521",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196599",
+      "name": "СГТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196600",
+      "name": "СГТ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196601",
+      "name": "СГТ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193626",
+      "name": "СЖД-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194439",
+      "name": "СЖД-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194462",
+      "name": "СЖД-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193611",
+      "name": "СЖД-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193618",
+      "name": "СЖД-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193620",
+      "name": "СЖД-243",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193600",
+      "name": "СЖД-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193603",
+      "name": "СЖД-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193594",
+      "name": "СЖД-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193595",
+      "name": "СЖД-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193598",
+      "name": "СЖД-443",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "123487",
+      "name": "СЗК-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193125",
+      "name": "СКУ-121",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208246",
+      "name": "СКУ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193436",
+      "name": "СКУ-181",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193123",
+      "name": "СКУ-221",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193434",
+      "name": "СКУ-281",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193119",
+      "name": "СКУ-321",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193114",
+      "name": "СКУ-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193352",
+      "name": "СКХ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194333",
+      "name": "СММ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194440",
+      "name": "СММ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194461",
+      "name": "СММ-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193640",
+      "name": "СММ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193645",
+      "name": "СММ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193648",
+      "name": "СММ-243",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193641",
+      "name": "СММ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193635",
+      "name": "СММ-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193637",
+      "name": "СММ-343",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193642",
+      "name": "СММ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193630",
+      "name": "СММ-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193633",
+      "name": "СММ-443",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194140",
+      "name": "СММ-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208244",
+      "name": "СМС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194337",
+      "name": "СМТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194338",
+      "name": "СМТ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194336",
+      "name": "СМТ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194335",
+      "name": "СМТ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194151",
+      "name": "СМТ-552",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196608",
+      "name": "СПС-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "197025",
+      "name": "СРП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "197027",
+      "name": "СРП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "197023",
+      "name": "ССД-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193704",
+      "name": "СТП-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194465",
+      "name": "СТП-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194466",
+      "name": "СТП-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194467",
+      "name": "СТП-144",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193683",
+      "name": "СТП-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193685",
+      "name": "СТП-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193690",
+      "name": "СТП-243",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193694",
+      "name": "СТП-244",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193668",
+      "name": "СТП-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193672",
+      "name": "СТП-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193674",
+      "name": "СТП-343",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193678",
+      "name": "СТП-344",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193660",
+      "name": "СТП-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193663",
+      "name": "СТП-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193665",
+      "name": "СТП-443",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193667",
+      "name": "СТП-444",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194095",
+      "name": "СТП-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194091",
+      "name": "СТП-551",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "143858",
+      "name": "ТБЖ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "149630",
+      "name": "ТБЖ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "139986",
+      "name": "ТБЖ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193365",
+      "name": "ТИА-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "187146",
+      "name": "ТИУ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189027",
+      "name": "ТИУ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193730",
+      "name": "ТКИ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "198879",
+      "name": "ТКИ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193722",
+      "name": "ТКИ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193728",
+      "name": "ТКИ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193714",
+      "name": "ТКИ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193708",
+      "name": "ТКИ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193707",
+      "name": "ТКИ-541",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193715",
+      "name": "ТКИ-542",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "192969",
+      "name": "ТКТ-531",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "192970",
+      "name": "ТКТ-532",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188719",
+      "name": "ТМР-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202017",
+      "name": "ТМР-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189072",
+      "name": "ТМР-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189073",
+      "name": "ТМР-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "172249",
+      "name": "ТМС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "177601",
+      "name": "ТМС-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "177602",
+      "name": "ТМС-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "164732",
+      "name": "ТМТ-391",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "210182",
+      "name": "ТМХ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193745",
+      "name": "ТНД-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193742",
+      "name": "ТНД-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193739",
+      "name": "ТНД-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193736",
+      "name": "ТНД-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193370",
+      "name": "ТНК-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193374",
+      "name": "ТНС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205352",
+      "name": "ТНС-181",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205353",
+      "name": "ТНС-281",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205345",
+      "name": "ТПВ-151",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205346",
+      "name": "ТПВ-251",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193807",
+      "name": "ТПЛ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193797",
+      "name": "ТПЛ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193799",
+      "name": "ТПЛ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193789",
+      "name": "ТПЛ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193785",
+      "name": "ТПЛ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194115",
+      "name": "ТПЛ-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194112",
+      "name": "ТПЛ-551",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193818",
+      "name": "ТПР-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193814",
+      "name": "ТПР-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193811",
+      "name": "ТПР-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193809",
+      "name": "ТПР-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193833",
+      "name": "ТПТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193830",
+      "name": "ТПТ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193828",
+      "name": "ТПТ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193824",
+      "name": "ТПТ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193858",
+      "name": "ТПЭ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193391",
+      "name": "ТПЭ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193851",
+      "name": "ТПЭ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193856",
+      "name": "ТПЭ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193846",
+      "name": "ТПЭ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193840",
+      "name": "ТПЭ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193367",
+      "name": "ТРС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193897",
+      "name": "ТСА-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194475",
+      "name": "ТСА-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193883",
+      "name": "ТСА-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193885",
+      "name": "ТСА-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193873",
+      "name": "ТСА-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193875",
+      "name": "ТСА-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193866",
+      "name": "ТСА-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193868",
+      "name": "ТСА-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194177",
+      "name": "ТСО-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193921",
+      "name": "ТСТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194477",
+      "name": "ТСТ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193910",
+      "name": "ТСТ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193914",
+      "name": "ТСТ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193904",
+      "name": "ТСТ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193908",
+      "name": "ТСТ-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193901",
+      "name": "ТСТ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193956",
+      "name": "ТСЭ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194478",
+      "name": "ТСЭ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193942",
+      "name": "ТСЭ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193947",
+      "name": "ТСЭ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193950",
+      "name": "ТСЭ-243",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193934",
+      "name": "ТСЭ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193935",
+      "name": "ТСЭ-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193927",
+      "name": "ТСЭ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193928",
+      "name": "ТСЭ-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193360",
+      "name": "ТТБ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "123610",
+      "name": "ТТП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "132469",
+      "name": "ТТП-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193376",
+      "name": "ТТП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "131036",
+      "name": "ТТП-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "141309",
+      "name": "ТТП-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "140067",
+      "name": "ТТП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "149605",
+      "name": "ТТП-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "135392",
+      "name": "ТУП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193381",
+      "name": "ТУП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "149820",
+      "name": "ТУП-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "140100",
+      "name": "ТУП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193048",
+      "name": "ТУП-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193385",
+      "name": "ТУУ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "175717",
+      "name": "ТУУ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "175718",
+      "name": "ТУУ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202198",
+      "name": "ТЭИ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193388",
+      "name": "ТЭМ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194451",
+      "name": "ТЭМ-172",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "172255",
+      "name": "УВВ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189999",
+      "name": "УВВ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194649",
+      "name": "УВВ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194647",
+      "name": "УВВ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "201278",
+      "name": "УВИ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188575",
+      "name": "УВП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189103",
+      "name": "УВП-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190001",
+      "name": "УВП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189117",
+      "name": "УВП-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189116",
+      "name": "УВП-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189114",
+      "name": "УВП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189115",
+      "name": "УВП-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "172256",
+      "name": "УЗС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "177375",
+      "name": "УЗС-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "177376",
+      "name": "УЗС-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208176",
+      "name": "УЗТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "122686",
+      "name": "УИБ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190004",
+      "name": "УИБ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "130733",
+      "name": "УИБ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "135795",
+      "name": "УИБ-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194656",
+      "name": "УИБ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205121",
+      "name": "УИК-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "123136",
+      "name": "УИС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "130882",
+      "name": "УИС-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194657",
+      "name": "УИС-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "201977",
+      "name": "УИТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196635",
+      "name": "УИТ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196636",
+      "name": "УИТ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208178",
+      "name": "УМБ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208179",
+      "name": "УМБ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "123145",
+      "name": "УМЛ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190021",
+      "name": "УМЛ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "124327",
+      "name": "УМЛ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "124328",
+      "name": "УМЛ-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194658",
+      "name": "УМЛ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194659",
+      "name": "УМЛ-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194687",
+      "name": "УМН-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194683",
+      "name": "УМН-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196613",
+      "name": "УНК-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196614",
+      "name": "УНК-172",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196617",
+      "name": "УНТ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188869",
+      "name": "УПМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189144",
+      "name": "УПМ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189145",
+      "name": "УПМ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189142",
+      "name": "УПМ-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "172259",
+      "name": "УТА-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194691",
+      "name": "УТА-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194689",
+      "name": "УТА-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208177",
+      "name": "УТМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "152275",
+      "name": "УТН-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194698",
+      "name": "УТН-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194699",
+      "name": "УТН-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194696",
+      "name": "УТН-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "165290",
+      "name": "УТЦ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "175079",
+      "name": "УТЦ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194748",
+      "name": "УТЦ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194750",
+      "name": "УТЦ-172",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "175080",
+      "name": "УТЦ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "177840",
+      "name": "УТЦ-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "175627",
+      "name": "УТЦ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "177841",
+      "name": "УТЦ-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190024",
+      "name": "УЭБ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190025",
+      "name": "УЭБ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190026",
+      "name": "УЭБ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190027",
+      "name": "УЭБ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190029",
+      "name": "УЭГ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190030",
+      "name": "УЭГ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190031",
+      "name": "УЭГ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190032",
+      "name": "УЭГ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190074",
+      "name": "УЭИ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190075",
+      "name": "УЭИ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190076",
+      "name": "УЭИ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190077",
+      "name": "УЭИ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190071",
+      "name": "УЭЛ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190072",
+      "name": "УЭЛ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190070",
+      "name": "УЭЛ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190069",
+      "name": "УЭЛ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190065",
+      "name": "УЭЛ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190066",
+      "name": "УЭЛ-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190067",
+      "name": "УЭЛ-343",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190064",
+      "name": "УЭЛ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190063",
+      "name": "УЭЛ-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190034",
+      "name": "УЭМ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190035",
+      "name": "УЭМ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190036",
+      "name": "УЭМ-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190041",
+      "name": "УЭМ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190040",
+      "name": "УЭМ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190039",
+      "name": "УЭМ-243",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190038",
+      "name": "УЭМ-244",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190042",
+      "name": "УЭМ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190043",
+      "name": "УЭМ-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190044",
+      "name": "УЭМ-343",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190045",
+      "name": "УЭМ-344",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190049",
+      "name": "УЭМ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190048",
+      "name": "УЭМ-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190047",
+      "name": "УЭМ-443",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190046",
+      "name": "УЭМ-444",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208118",
+      "name": "УЭП-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208119",
+      "name": "УЭП-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190083",
+      "name": "УЭЦ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190082",
+      "name": "УЭЦ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190081",
+      "name": "УЭЦ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190080",
+      "name": "УЭЦ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185407",
+      "name": "ШАД-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185408",
+      "name": "ШАД-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185409",
+      "name": "ШАД-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208305",
+      "name": "ШИН-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185411",
+      "name": "ШМС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196625",
+      "name": "ШМС-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185412",
+      "name": "ШМС-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196626",
+      "name": "ШМС-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185413",
+      "name": "ШМС-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196627",
+      "name": "ШМС-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196764",
+      "name": "ШТА-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185351",
+      "name": "ШТД-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185352",
+      "name": "ШТД-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185353",
+      "name": "ШТД-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189530",
+      "name": "ШТС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189529",
+      "name": "ШТС-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189528",
+      "name": "ШТС-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196621",
+      "name": "ШЦТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196622",
+      "name": "ШЦТ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196623",
+      "name": "ШЦТ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208325",
+      "name": "ШЭТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208464",
+      "name": "ШЭТ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189524",
+      "name": "ШЭТ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189525",
+      "name": "ШЭТ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196442",
+      "name": "ЭБП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196443",
+      "name": "ЭБП-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196444",
+      "name": "ЭБП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "149832",
+      "name": "ЭБР-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "155531",
+      "name": "ЭБР-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "139722",
+      "name": "ЭБР-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "140063",
+      "name": "ЭБР-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "139973",
+      "name": "ЭБР-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185464",
+      "name": "ЭБЦ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185465",
+      "name": "ЭБЦ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185466",
+      "name": "ЭБЦ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193213",
+      "name": "ЭВБ-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185437",
+      "name": "ЭГП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185438",
+      "name": "ЭГП-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185439",
+      "name": "ЭГП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "149827",
+      "name": "ЭГС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "141538",
+      "name": "ЭГС-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "141375",
+      "name": "ЭГС-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185433",
+      "name": "ЭГУ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185434",
+      "name": "ЭГУ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185435",
+      "name": "ЭГУ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "141206",
+      "name": "ЭГФ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "139687",
+      "name": "ЭГФ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188830",
+      "name": "ЭЛМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188997",
+      "name": "ЭЛМ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188998",
+      "name": "ЭЛМ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193399",
+      "name": "ЭММ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194812",
+      "name": "ЭМС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193408",
+      "name": "ЭМУ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196429",
+      "name": "ЭМЭ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208086",
+      "name": "ЭМЭ-172",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188726",
+      "name": "ЭПИ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189007",
+      "name": "ЭПИ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189004",
+      "name": "ЭПИ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189008",
+      "name": "ЭПИ-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189005",
+      "name": "ЭПИ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189029",
+      "name": "ЭПИ-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193992",
+      "name": "ЭСБ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193993",
+      "name": "ЭСБ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193994",
+      "name": "ЭСБ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193995",
+      "name": "ЭСБ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193998",
+      "name": "ЭСБ-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193959",
+      "name": "ЭСБ-542",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196426",
+      "name": "ЭУМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196455",
+      "name": "ЭУМ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196456",
+      "name": "ЭУМ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "165540",
+      "name": "ЭУЦ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194594",
+      "name": "ЭУЦ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194593",
+      "name": "ЭУЦ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "142596",
+      "name": "ЭЭБ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "131671",
+      "name": "ЭЭБ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "140043",
+      "name": "ЭЭБ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194854",
+      "name": "ЭЭЛ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194855",
+      "name": "ЭЭЛ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194856",
+      "name": "ЭЭЛ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "142604",
+      "name": "ЭЭП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194415",
+      "name": "ЭЭП-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "139518",
+      "name": "ЭЭП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194811",
+      "name": "ЭЭС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194722",
+      "name": "ЭЭС-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "139940",
+      "name": "ЭЭС-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194599",
+      "name": "ЭЭТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194600",
+      "name": "ЭЭТ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "139704",
+      "name": "ЭЭТ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "122722",
+      "name": "ЭЭУ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "130745",
+      "name": "ЭЭУ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "141615",
+      "name": "ЭЭУ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "142598",
+      "name": "ЭЭФ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "131674",
+      "name": "ЭЭФ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "139793",
+      "name": "ЭЭФ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193426",
+      "name": "ЮМП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193424",
+      "name": "ЮМТ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194024",
+      "name": "ЮПБ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194515",
+      "name": "ЮПБ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194201",
+      "name": "ЮПБ-151",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194014",
+      "name": "ЮПБ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194019",
+      "name": "ЮПБ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194199",
+      "name": "ЮПБ-251",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "131271",
+      "name": "ЮПБ-261",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194015",
+      "name": "ЮПБ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194008",
+      "name": "ЮПБ-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194193",
+      "name": "ЮПБ-351",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194187",
+      "name": "ЮПБ-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194189",
+      "name": "ЮПБ-551",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "168589",
+      "name": "ЮПД-661",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194051",
+      "name": "ЮСИ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194046",
+      "name": "ЮСИ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194038",
+      "name": "ЮСИ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194212",
+      "name": "ЮТЛ-551",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194081",
+      "name": "ЮТМ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194516",
+      "name": "ЮТМ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194517",
+      "name": "ЮТМ-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194074",
+      "name": "ЮТМ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194079",
+      "name": "ЮТМ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194064",
+      "name": "ЮТМ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194066",
+      "name": "ЮТМ-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194071",
+      "name": "ЮТМ-343",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194060",
+      "name": "ЮТМ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194062",
+      "name": "ЮТМ-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194070",
+      "name": "ЮТМ-443",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194085",
+      "name": "ЮТТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194407",
+      "name": "ЮТТ-151",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194086",
+      "name": "ЮТТ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194408",
+      "name": "ЮТТ-251",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194089",
+      "name": "ЮТТ-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194409",
+      "name": "ЮТТ-351",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194087",
+      "name": "ЮТТ-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194410",
+      "name": "ЮТТ-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "151765",
+      "name": "ЮЮГ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "151766",
+      "name": "ЮЮГ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193300",
+      "name": "ЮЮГ-121",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "151762",
+      "name": "ЮЮГ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "151763",
+      "name": "ЮЮГ-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "151764",
+      "name": "ЮЮГ-213",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193291",
+      "name": "ЮЮГ-221",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194727",
+      "name": "ЮЮГ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "151761",
+      "name": "ЮЮГ-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "140062",
+      "name": "ЮЮГ-313",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193283",
+      "name": "ЮЮГ-321",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193282",
+      "name": "ЮЮГ-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196477",
+      "name": "ЮЮМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196478",
+      "name": "ЮЮМ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196479",
+      "name": "ЮЮМ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194732",
+      "name": "ЮЮУ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194730",
+      "name": "ЮЮУ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194304",
+      "name": "ЮЮУ-231",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194729",
+      "name": "ЮЮУ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188793",
+      "name": "ЮЮЦ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193301",
+      "name": "ЮЮЦ-121",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190468",
+      "name": "ЮЮЦ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190469",
+      "name": "ЮЮЦ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196475",
+      "name": "ЮЮЦ-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193303",
+      "name": "ЮЮЦ-321",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193304",
+      "name": "ЮЮЦ-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    }
+  ]
+}
