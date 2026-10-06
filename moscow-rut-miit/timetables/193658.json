@@ -1,0 +1,787 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "193658",
+  "group": "СТП-543",
+  "updatedAt": "2026-10-06T10:49:08+03:00",
+  "semester": {
+    "startDate": "2026-09-01",
+    "endDate": "2027-01-04",
+    "firstWeekParity": "odd"
+  },
+  "events": [],
+  "lessons": {
+    "odd": [
+      {
+        "id": "moscow-rut-miit_193658_w1_1ac39d146423",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Земляное полотно в сложных условиях",
+        "teacher": "Семёнов Евгений Владимирович",
+        "room": "515",
+        "address": "РОАТ, Часовая 1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w2_640a03860356",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Мониторинг и управление надежностью железнодорожного пути",
+        "teacher": "Ашпиз Евгений Самуилович",
+        "room": "429а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w5_5a5c2ca1fffb",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Проектирование и расчет элементов верхнего строения пути",
+        "teacher": "Гречаник Александр Викторович; Манюгина Екатерина Андреевна",
+        "room": "369",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w1_0f3f960643ad",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Мониторинг и управление надежностью железнодорожного пути",
+        "teacher": "Ваганова Олеся Николаевна",
+        "room": "512",
+        "address": "РОАТ, Часовая 1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w2_ae6eec193b89",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Земляное полотно в сложных условиях",
+        "teacher": "Ашпиз Евгений Самуилович",
+        "room": "429а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w5_4fe10e52e286",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Проектирование и расчет элементов верхнего строения пути",
+        "teacher": "Гречаник Александр Викторович; Манюгина Екатерина Андреевна",
+        "room": "369",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w2_2587fbfdb6b3",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Реконструкция и усиление железнодорожной инфраструктуры под особогрузонапряженное движение поездов",
+        "teacher": "Гринь Елена Николаевна; Рыжик Екатерина Александровна",
+        "room": "516-516а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w3_411c6e508cb2",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Прaвила технической эксплуатации",
+        "teacher": "Сидраков Андрей Александрович",
+        "room": "429а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w5_4a585bc1f67d",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Юркова Юлия Николаевна",
+        "room": "373",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w2_8f74a803c55f",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Организация и управление путевым хозяйством",
+        "teacher": "Гринь Елена Николаевна",
+        "room": "429а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w3_84aa68729c15",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Проектирование и расчет элементов верхнего строения пути",
+        "teacher": "Журавлев Андрей Сергеевич",
+        "room": "520-520а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w5_78fc467fac4f",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Реконструкция и усиление железнодорожной инфраструктуры под особогрузонапряженное движение поездов",
+        "teacher": "Гринь Елена Николаевна",
+        "room": "374",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w2_8d24e4ca7726",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Прaвила технической эксплуатации",
+        "teacher": "Меренченко Константин Вячеславович",
+        "room": "373",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w5_156146713db5",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Организация и управление путевым хозяйством",
+        "teacher": "Гринь Елена Николаевна",
+        "room": "374",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      }
+    ],
+    "even": [
+      {
+        "id": "moscow-rut-miit_193658_w3_e91080a60cc2",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Организация и управление путевым хозяйством",
+        "teacher": "Гринь Елена Николаевна",
+        "room": "374",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w1_0f3f960643ad",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Мониторинг и управление надежностью железнодорожного пути",
+        "teacher": "Ваганова Олеся Николаевна",
+        "room": "512",
+        "address": "РОАТ, Часовая 1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w2_60130acc0d37",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Реконструкция и усиление железнодорожной инфраструктуры под особогрузонапряженное движение поездов",
+        "teacher": "Гринь Елена Николаевна; Куртиков Роман Михайлович",
+        "room": "369",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w3_76a2f05d607c",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Земляное полотно в сложных условиях",
+        "teacher": "Ашпиз Евгений Самуилович",
+        "room": "429а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w5_17b099ce95ce",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Транспортная безопасность",
+        "teacher": "Замуховский Александр Владимирович",
+        "room": "515",
+        "address": "РОАТ, Часовая 1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w6_9996196ac1c3",
+        "date": "",
+        "weekday": "Суббота",
+        "weekdayNumber": 6,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Цифровые технологии в профессиональной деятельности",
+        "teacher": "Зайцев Андрей Александрович; Мочалов Никита Алексеевич",
+        "room": "373",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w1_72b5cb91cd85",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Земляное полотно в сложных условиях",
+        "teacher": "Семёнов Евгений Владимирович",
+        "room": "513",
+        "address": "РОАТ, Часовая 1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w2_d18c6e69dc46",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Проектирование и расчет элементов верхнего строения пути",
+        "teacher": "Журавлев Андрей Сергеевич",
+        "room": "520-520а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w3_ca4b5473e9ea",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Транспортная безопасность",
+        "teacher": "Замуховский Александр Владимирович",
+        "room": "429а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w5_8d756006922e",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Реконструкция и усиление железнодорожной инфраструктуры под особогрузонапряженное движение поездов",
+        "teacher": "Гринь Елена Николаевна",
+        "room": "374",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w6_a8b29d8d3675",
+        "date": "",
+        "weekday": "Суббота",
+        "weekdayNumber": 6,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Цифровые технологии в профессиональной деятельности",
+        "teacher": "Зайцев Андрей Александрович; Мочалов Никита Алексеевич",
+        "room": "373",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w2_8f74a803c55f",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Организация и управление путевым хозяйством",
+        "teacher": "Гринь Елена Николаевна",
+        "room": "429а",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w3_252730202794",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Цифровые технологии в профессиональной деятельности",
+        "teacher": "Зайцев Андрей Александрович",
+        "room": "536",
+        "address": "РОАТ, Часовая 1",
+        "groups": [
+          {
+            "id": "193656",
+            "name": "СТП-541"
+          },
+          {
+            "id": "193657",
+            "name": "СТП-542"
+          },
+          {
+            "id": "193659",
+            "name": "СТП-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_193658_w5_b02d83b2ca13",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Юркова Юлия Николаевна",
+        "room": "373",
+        "address": "РОАТ, Часовая 2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+      }
+    ]
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.3-current-catalog-unified",
+    "timezone": "Europe/Moscow",
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/193658?start=2026-09-01&type=1"
+  }
+}

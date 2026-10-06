@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "196615",
+  "group": "УНК-272",
+  "updatedAt": "2026-10-06T10:37:53+03:00",
+  "semester": {
+    "startDate": "2026-09-01",
+    "endDate": "2027-01-04",
+    "firstWeekParity": "odd"
+  },
+  "events": [],
+  "lessons": {
+    "odd": [
+      {
+        "id": "moscow-rut-miit_196615_w1_2c4ac3712797",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Организационно-функциональная структура транспортно-логистических систем",
+        "teacher": "Пересветов Юрий Владимирович",
+        "room": "1540",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "196616",
+            "name": "УНК-271"
+          },
+          {
+            "id": "196620",
+            "name": "УНТ-271"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w2_8865fa9a3d40",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Транспортные коридоры",
+        "teacher": "Кизим Оксана Викторовна",
+        "room": "1540",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "196616",
+            "name": "УНК-271"
+          },
+          {
+            "id": "196620",
+            "name": "УНТ-271"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w3_af3ef1981875",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Транспортно-логистическое взаимодействие при мультимодальных перевозках",
+        "teacher": "Панова Ольга Николаевна",
+        "room": "1540",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "196616",
+            "name": "УНК-271"
+          },
+          {
+            "id": "196620",
+            "name": "УНТ-271"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w1_8a4d76e27840",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Логистические центры в системе международных мультимодальных перевозок",
+        "teacher": "Кизим Оксана Викторовна",
+        "room": "1540",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "196616",
+            "name": "УНК-271"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w2_b2d0f5e101f0",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Транспортно-логистическое взаимодействие при мультимодальных перевозках",
+        "teacher": "Панова Ольга Николаевна",
+        "room": "1528",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w3_89f631c8c65b",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основные направления развития логистических технологий на транспорте",
+        "teacher": "Астафьев Алексей Владимирович",
+        "room": "1541",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "196616",
+            "name": "УНК-271"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      }
+    ],
+    "even": [
+      {
+        "id": "moscow-rut-miit_196615_w1_a28c52b03247",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Транспортно-логистическое взаимодействие при мультимодальных перевозках",
+        "teacher": "Панова Ольга Николаевна",
+        "room": "1528",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w2_3ab3b66e3ef5",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Логистические центры в системе международных мультимодальных перевозок",
+        "teacher": "Кизим Оксана Викторовна",
+        "room": "1540",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "196616",
+            "name": "УНК-271"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w3_c87768bfb108",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Логистические центры в системе международных мультимодальных перевозок",
+        "teacher": "Кизим Оксана Викторовна",
+        "room": "1309а",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w5_c35895171edf",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Интеллектуальные транспортные системы",
+        "teacher": "Панова Ольга Николаевна",
+        "room": "1540",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "196616",
+            "name": "УНК-271"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w1_396786fb43fe",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Организационно-функциональная структура транспортно-логистических систем",
+        "teacher": "Пересветов Юрий Владимирович",
+        "room": "1309б",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w2_0f3ef747ed1e",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Транспортные коридоры",
+        "teacher": "Кизим Оксана Викторовна",
+        "room": "1307",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w3_eddfdf142577",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основные направления развития логистических технологий на транспорте",
+        "teacher": "Астафьев Алексей Владимирович",
+        "room": "1416",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_196615_w5_74e944c5571e",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Интеллектуальные транспортные системы",
+        "teacher": "Панова Ольга Николаевна",
+        "room": "1528",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+      }
+    ]
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.3-current-catalog-unified",
+    "timezone": "Europe/Moscow",
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/196615?start=2026-09-01&type=1"
+  }
+}

@@ -1,0 +1,915 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "216022",
+  "group": "ЭПТ-111",
+  "updatedAt": "2026-10-06T10:49:37+03:00",
+  "semester": {
+    "startDate": "2026-09-01",
+    "endDate": "2027-01-04",
+    "firstWeekParity": "odd"
+  },
+  "events": [],
+  "lessons": {
+    "odd": [
+      {
+        "id": "moscow-rut-miit_216022_w1_8a8469e671a5",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "История России",
+        "teacher": "Базаев Алексей Николаевич",
+        "room": "3406",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w2_b5572f7cab75",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Физическая культура и спорт",
+        "teacher": "Щадилова Ирина Сергеевна",
+        "room": "Общежитие № 5 (ул. Космонавтов д. 11)",
+        "address": "Дом физкультуры",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w1_1668c5a9021f",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Парастаева Светлана Георгиевна",
+        "room": "4327",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w1_505fac076527",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Панкова Виктория Викторовна",
+        "room": "4425",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.1",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w3_65c1e6f4ae92",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Философия и основы критического мышления",
+        "teacher": "Миловац Жанна Викторовна",
+        "room": "3314",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w4_c815493a9fd3",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Информационные технологии и системы искусственного интеллекта",
+        "teacher": "Дмитриева Татьяна Михайловна",
+        "room": "3412",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w5_5babc3db7f0d",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Теория менеджмента",
+        "teacher": "Бабошин Евгений Борисович",
+        "room": "3412",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w2_048d9f8c7106",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "История России",
+        "teacher": "Шадрин Сергей Сергеевич",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216023",
+            "name": "ЭСБ-141"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w3_da5061a97644",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Общий курс транспорта",
+        "teacher": "Роменский Дмитрий Юрьевич",
+        "room": "3401",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w4_aedacff4ee7b",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Китаев Давыд Борисович",
+        "room": "3308",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w5_398d42113752",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Общий курс транспорта",
+        "teacher": "Калинин Кирилл Антонович",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216014",
+            "name": "ЭБЦ-111"
+          },
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216023",
+            "name": "ЭСБ-141"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w2_414e30155672",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основы российской государственности",
+        "teacher": "Наконечников Никита Сергеевич",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216023",
+            "name": "ЭСБ-141"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w3_6677af46e936",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Смагина Виктория Игоревна",
+        "room": "3311",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w4_0ea77355fc1b",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Информационные технологии и системы искусственного интеллекта",
+        "teacher": "Дмитриева Татьяна Михайловна",
+        "room": "3511",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w5_d9038845c9cc",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Китаев Давыд Борисович",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216014",
+            "name": "ЭБЦ-111"
+          },
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w4_019edaa0ee3b",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Теория менеджмента",
+        "teacher": "Поскряков Илья Андреевич",
+        "room": "3407",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      }
+    ],
+    "even": [
+      {
+        "id": "moscow-rut-miit_216022_w1_8a8469e671a5",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "История России",
+        "teacher": "Базаев Алексей Николаевич",
+        "room": "3406",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w2_b5572f7cab75",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Физическая культура и спорт",
+        "teacher": "Щадилова Ирина Сергеевна",
+        "room": "Общежитие № 5 (ул. Космонавтов д. 11)",
+        "address": "Дом физкультуры",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w3_0972cc892e6a",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основы российской государственности",
+        "teacher": "Наконечников Никита Сергеевич",
+        "room": "3315",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w1_1668c5a9021f",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Парастаева Светлана Георгиевна",
+        "room": "4327",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w1_505fac076527",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Панкова Виктория Викторовна",
+        "room": "4425",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.1",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w3_65c1e6f4ae92",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Философия и основы критического мышления",
+        "teacher": "Миловац Жанна Викторовна",
+        "room": "3314",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w5_5babc3db7f0d",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Теория менеджмента",
+        "teacher": "Бабошин Евгений Борисович",
+        "room": "3412",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w2_048d9f8c7106",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "История России",
+        "teacher": "Шадрин Сергей Сергеевич",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216023",
+            "name": "ЭСБ-141"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w3_da5061a97644",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Общий курс транспорта",
+        "teacher": "Роменский Дмитрий Юрьевич",
+        "room": "3401",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w4_aedacff4ee7b",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Китаев Давыд Борисович",
+        "room": "3308",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w5_398d42113752",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Общий курс транспорта",
+        "teacher": "Калинин Кирилл Антонович",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216014",
+            "name": "ЭБЦ-111"
+          },
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216023",
+            "name": "ЭСБ-141"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w2_53d870cbc531",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Философия и основы критического мышления",
+        "teacher": "Миловац Жанна Викторовна",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216023",
+            "name": "ЭСБ-141"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w3_6677af46e936",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Смагина Виктория Игоревна",
+        "room": "3311",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w4_0ea77355fc1b",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Информационные технологии и системы искусственного интеллекта",
+        "teacher": "Дмитриева Татьяна Михайловна",
+        "room": "3511",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w5_d9038845c9cc",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Китаев Давыд Борисович",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "216014",
+            "name": "ЭБЦ-111"
+          },
+          {
+            "id": "216304",
+            "name": "ЭПО-111"
+          },
+          {
+            "id": "216021",
+            "name": "ЭУМ-111"
+          },
+          {
+            "id": "216016",
+            "name": "ЭУЦ-111"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216022_w4_019edaa0ee3b",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Теория менеджмента",
+        "teacher": "Поскряков Илья Андреевич",
+        "room": "3407",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+      }
+    ]
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.3-current-catalog-unified",
+    "timezone": "Europe/Moscow",
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/216022?start=2026-09-01&type=1"
+  }
+}

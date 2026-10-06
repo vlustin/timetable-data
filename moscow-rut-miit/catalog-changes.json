@@ -1,0 +1,4475 @@
+{
+  "added": [
+    {
+      "id": "130997",
+      "name": "СЗК-211",
+      "instituteId": "isti",
+      "course": 2
+    },
+    {
+      "id": "139516",
+      "name": "ЭЭП-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "139519",
+      "name": "ЭЭТ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "139533",
+      "name": "УМЛ-412",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "139543",
+      "name": "ЮЮГ-412",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "139551",
+      "name": "ТТП-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "139611",
+      "name": "ЭЭФ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "139621",
+      "name": "УИС-311",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "139625",
+      "name": "УМЛ-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "139640",
+      "name": "ЮЮГ-411",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "139672",
+      "name": "ЭПО-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "139770",
+      "name": "ЮПБ-461",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "139775",
+      "name": "ЭГФ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "139787",
+      "name": "ЭЭС-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "139797",
+      "name": "УИС-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "139869",
+      "name": "САП-411",
+      "instituteId": "isti",
+      "course": 4
+    },
+    {
+      "id": "139894",
+      "name": "ТБЖ-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "140042",
+      "name": "ЭЭБ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "140065",
+      "name": "УИБ-311",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "140157",
+      "name": "УИБ-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "141533",
+      "name": "ЭБР-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "141534",
+      "name": "ЭБР-412",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "146559",
+      "name": "ЮПБ-561",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "149606",
+      "name": "ТТП-412",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "152006",
+      "name": "ЭГС-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "153226",
+      "name": "ЮПБ-661",
+      "instituteId": "yui",
+      "course": 6
+    },
+    {
+      "id": "155931",
+      "name": "ЭБР-212",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "161937",
+      "name": "СГС-313",
+      "instituteId": "isti",
+      "course": 3
+    },
+    {
+      "id": "161938",
+      "name": "СГС-411",
+      "instituteId": "isti",
+      "course": 4
+    },
+    {
+      "id": "161939",
+      "name": "СГС-412",
+      "instituteId": "isti",
+      "course": 4
+    },
+    {
+      "id": "162538",
+      "name": "ЮПД-561",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "171688",
+      "name": "СГСк-314",
+      "instituteId": "isti",
+      "course": 3
+    },
+    {
+      "id": "173806",
+      "name": "ТУЭк-311",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "175015",
+      "name": "СГСк-414",
+      "instituteId": "isti",
+      "course": 4
+    },
+    {
+      "id": "175072",
+      "name": "УИБ-312",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "175427",
+      "name": "ЮПБ-562",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "175558",
+      "name": "ОМН-411",
+      "instituteId": "imtk",
+      "course": 4
+    },
+    {
+      "id": "175628",
+      "name": "УТЦ-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "175719",
+      "name": "ТУУ-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "177377",
+      "name": "УЗС-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "177603",
+      "name": "ТМС-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "177705",
+      "name": "ТУЭк-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "177842",
+      "name": "УТЦ-412",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "178124",
+      "name": "ВУТ-411",
+      "instituteId": "avt",
+      "course": 4
+    },
+    {
+      "id": "179364",
+      "name": "ЮМТ-391",
+      "instituteId": "yui",
+      "course": 3
+    },
+    {
+      "id": "182576",
+      "name": "ОМКк-311",
+      "instituteId": "imtk",
+      "course": 3
+    },
+    {
+      "id": "182577",
+      "name": "ОМКк-411",
+      "instituteId": "imtk",
+      "course": 4
+    },
+    {
+      "id": "182815",
+      "name": "ТУСк-412",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "184542",
+      "name": "ТУСк-312",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "185354",
+      "name": "ШТД-411",
+      "instituteId": "vish",
+      "course": 4
+    },
+    {
+      "id": "185410",
+      "name": "ШАД-411",
+      "instituteId": "vish",
+      "course": 4
+    },
+    {
+      "id": "185414",
+      "name": "ШМС-411",
+      "instituteId": "vish",
+      "course": 4
+    },
+    {
+      "id": "185436",
+      "name": "ЭГУ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "185440",
+      "name": "ЭГП-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "185467",
+      "name": "ЭБЦ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "188999",
+      "name": "ЭЛМ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "189006",
+      "name": "ЭПИ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "189028",
+      "name": "ТИУ-311",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "189030",
+      "name": "ЭПИ-412",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "189048",
+      "name": "ОМО-411",
+      "instituteId": "imtk",
+      "course": 4
+    },
+    {
+      "id": "189071",
+      "name": "ТМР-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "189112",
+      "name": "УВП-412",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "189113",
+      "name": "УВП-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "189143",
+      "name": "УПМ-412",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "189146",
+      "name": "УПМ-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "189173",
+      "name": "ЮТТ-461",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "189174",
+      "name": "ЮТТ-561",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "189526",
+      "name": "ШЭТ-411",
+      "instituteId": "vish",
+      "course": 4
+    },
+    {
+      "id": "189527",
+      "name": "ШТС-411",
+      "instituteId": "vish",
+      "course": 4
+    },
+    {
+      "id": "189788",
+      "name": "ЭБЦд-211",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "189789",
+      "name": "ЭБЦд-311",
+      "instituteId": "ief",
+      "course": 3
+    },
+    {
+      "id": "190000",
+      "name": "УВВ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "190002",
+      "name": "УВП-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "190003",
+      "name": "УИБ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "190022",
+      "name": "УМЛ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "190028",
+      "name": "УЭБ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190033",
+      "name": "УЭГ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190050",
+      "name": "УЭМ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190051",
+      "name": "УЭМ-542",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190052",
+      "name": "УЭМ-543",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190053",
+      "name": "УЭМ-544",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190059",
+      "name": "УЭЛ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190060",
+      "name": "УЭЛ-542",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190062",
+      "name": "УЭЛ-443",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "190078",
+      "name": "УЭИ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190079",
+      "name": "УЭЦ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "190470",
+      "name": "ЮЮЦ-411",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "190863",
+      "name": "ВВП-411",
+      "instituteId": "avt",
+      "course": 4
+    },
+    {
+      "id": "192952",
+      "name": "ОДДу-431",
+      "instituteId": "imtk",
+      "course": 4
+    },
+    {
+      "id": "193047",
+      "name": "ЭПО-521",
+      "instituteId": "ief",
+      "course": 5
+    },
+    {
+      "id": "193065",
+      "name": "ОММу-321",
+      "instituteId": "imtk",
+      "course": 3
+    },
+    {
+      "id": "193066",
+      "name": "ОММу-421",
+      "instituteId": "imtk",
+      "course": 4
+    },
+    {
+      "id": "193069",
+      "name": "ОММу-221",
+      "instituteId": "imtk",
+      "course": 2
+    },
+    {
+      "id": "193071",
+      "name": "ОММ-521",
+      "instituteId": "imtk",
+      "course": 5
+    },
+    {
+      "id": "193112",
+      "name": "СКУ-521",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193151",
+      "name": "ТЭЛу-421",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "193153",
+      "name": "ТЭЛу-321",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "193155",
+      "name": "ТЭЛу-322",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "193156",
+      "name": "ТЭЛу-221",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193212",
+      "name": "ЭВБ-521",
+      "instituteId": "ief",
+      "course": 5
+    },
+    {
+      "id": "193284",
+      "name": "ЮЮГ-521",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "193302",
+      "name": "ЮЮЦ-221",
+      "instituteId": "yui",
+      "course": 2
+    },
+    {
+      "id": "193305",
+      "name": "ЮЮЦ-521",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "193330",
+      "name": "ОМН-271",
+      "instituteId": "imtk",
+      "course": 2
+    },
+    {
+      "id": "193333",
+      "name": "ОМО-271",
+      "instituteId": "imtk",
+      "course": 2
+    },
+    {
+      "id": "193339",
+      "name": "САП-271",
+      "instituteId": "isti",
+      "course": 2
+    },
+    {
+      "id": "193345",
+      "name": "СГС-271",
+      "instituteId": "isti",
+      "course": 2
+    },
+    {
+      "id": "193351",
+      "name": "СКХ-271",
+      "instituteId": "isti",
+      "course": 2
+    },
+    {
+      "id": "193362",
+      "name": "ТИА-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193366",
+      "name": "ТРС-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193372",
+      "name": "ТНС-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193377",
+      "name": "ТСМ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193378",
+      "name": "ТТБ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193379",
+      "name": "ТТП-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193380",
+      "name": "ЭМК-271",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193383",
+      "name": "ТУУ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193386",
+      "name": "ТЭМ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193389",
+      "name": "ТПЭ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193403",
+      "name": "ЭММ-271",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193404",
+      "name": "ЭМОд-271",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193414",
+      "name": "ЭМС-271",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193415",
+      "name": "ЭМПд-271",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193420",
+      "name": "ЭМУ-271",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193421",
+      "name": "ЮМП-271",
+      "instituteId": "yui",
+      "course": 2
+    },
+    {
+      "id": "193422",
+      "name": "ЮМТ-271",
+      "instituteId": "yui",
+      "course": 2
+    },
+    {
+      "id": "193442",
+      "name": "ЭМДд-281",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193449",
+      "name": "ЭМНд-281",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193455",
+      "name": "ЭМПд-281",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193460",
+      "name": "ЭМТд-281",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "193531",
+      "name": "ВСВ-541",
+      "instituteId": "avt",
+      "course": 5
+    },
+    {
+      "id": "193535",
+      "name": "ВСВ-442",
+      "instituteId": "avt",
+      "course": 4
+    },
+    {
+      "id": "193549",
+      "name": "ВСМ-541",
+      "instituteId": "avt",
+      "course": 5
+    },
+    {
+      "id": "193555",
+      "name": "ВСМ-341",
+      "instituteId": "avt",
+      "course": 3
+    },
+    {
+      "id": "193567",
+      "name": "ВСС-541",
+      "instituteId": "avt",
+      "course": 5
+    },
+    {
+      "id": "193575",
+      "name": "ВЭО-541",
+      "instituteId": "avt",
+      "course": 5
+    },
+    {
+      "id": "193582",
+      "name": "ВЭО-341",
+      "instituteId": "avt",
+      "course": 3
+    },
+    {
+      "id": "193589",
+      "name": "СЖД-541",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193590",
+      "name": "СЖД-542",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193591",
+      "name": "СЖД-543",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193605",
+      "name": "СЖД-343",
+      "instituteId": "isti",
+      "course": 3
+    },
+    {
+      "id": "193628",
+      "name": "СММ-542",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193632",
+      "name": "СММ-543",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193643",
+      "name": "СММ-541",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193656",
+      "name": "СТП-541",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193657",
+      "name": "СТП-542",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193658",
+      "name": "СТП-543",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193659",
+      "name": "СТП-544",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "193718",
+      "name": "ТКИ-342",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "193735",
+      "name": "ТНД-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193750",
+      "name": "ТПВг-441",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "193751",
+      "name": "ТПВг-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193754",
+      "name": "ТПВг-341",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "193755",
+      "name": "ТПВг-241",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193761",
+      "name": "ТПВп-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193762",
+      "name": "ТПВп-441",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "193763",
+      "name": "ТПВп-341",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "193769",
+      "name": "ТПВп-241",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "193783",
+      "name": "ТПЛ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193808",
+      "name": "ТПР-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193823",
+      "name": "ТПТ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193838",
+      "name": "ТПЭ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193863",
+      "name": "ТСА-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193864",
+      "name": "ТСА-542",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193898",
+      "name": "ТСТ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193923",
+      "name": "ТСЭ-541",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "193924",
+      "name": "ТСЭ-542",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "194007",
+      "name": "ЮПБ-442",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "194009",
+      "name": "ЮПБ-542",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194013",
+      "name": "ЮПБ-541",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194016",
+      "name": "ЮПБ-441",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "194039",
+      "name": "ЮСИ-441",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "194040",
+      "name": "ЮСИ-541",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194057",
+      "name": "ЮТМ-541",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194058",
+      "name": "ЮТМ-542",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194069",
+      "name": "ЮТМ-543",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194088",
+      "name": "ЮТТ-541",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194090",
+      "name": "СТП-651",
+      "instituteId": "isti",
+      "course": 6
+    },
+    {
+      "id": "194111",
+      "name": "ТПЛ-651",
+      "instituteId": "izht",
+      "course": 6
+    },
+    {
+      "id": "194136",
+      "name": "УЭМв-551",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "194137",
+      "name": "УЭМв-651",
+      "instituteId": "izht",
+      "course": 6
+    },
+    {
+      "id": "194141",
+      "name": "СММ-551",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "194155",
+      "name": "СМТ-652",
+      "instituteId": "isti",
+      "course": 6
+    },
+    {
+      "id": "194162",
+      "name": "ТПСу-351",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "194169",
+      "name": "ТПСу-251",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "194188",
+      "name": "ЮПБ-651",
+      "instituteId": "yui",
+      "course": 6
+    },
+    {
+      "id": "194211",
+      "name": "ЮТЛ-651",
+      "instituteId": "yui",
+      "course": 6
+    },
+    {
+      "id": "194307",
+      "name": "ЮЮУ-531",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194316",
+      "name": "ТНК-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "194334",
+      "name": "СМТ-541",
+      "instituteId": "isti",
+      "course": 5
+    },
+    {
+      "id": "194359",
+      "name": "ЮЮГ-431",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "194360",
+      "name": "ЮЮГ-531",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194373",
+      "name": "ОММу-121",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "194411",
+      "name": "ЮТТ-551",
+      "instituteId": "yui",
+      "course": 5
+    },
+    {
+      "id": "194425",
+      "name": "ЭМРд-281",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "194430",
+      "name": "ОМКк-312",
+      "instituteId": "imtk",
+      "course": 3
+    },
+    {
+      "id": "194431",
+      "name": "ОМКк-412",
+      "instituteId": "imtk",
+      "course": 4
+    },
+    {
+      "id": "194452",
+      "name": "ТЭМ-272",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "194519",
+      "name": "ЮТМ-243",
+      "instituteId": "yui",
+      "course": 2
+    },
+    {
+      "id": "194592",
+      "name": "ЭУЦ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "194595",
+      "name": "ЭЭПд-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "194597",
+      "name": "ЭЭПд-211",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "194619",
+      "name": "УМЛв-521",
+      "instituteId": "izht",
+      "course": 5
+    },
+    {
+      "id": "194648",
+      "name": "УВВ-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "194681",
+      "name": "УМН-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "194690",
+      "name": "УТА-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "194693",
+      "name": "УТН-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "194697",
+      "name": "УТН-312",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "194724",
+      "name": "ЭЭУ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "194726",
+      "name": "ЮЮГ-413",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "194728",
+      "name": "ЮЮУ-411",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "194747",
+      "name": "УТЦ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "194749",
+      "name": "УТЦ-272",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "194762",
+      "name": "ЮТЛ-661",
+      "instituteId": "yui",
+      "course": 6
+    },
+    {
+      "id": "194857",
+      "name": "ЭЭЛ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "196138",
+      "name": "ЮПБу-441",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "196431",
+      "name": "ЭМБд-271",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "196445",
+      "name": "ЭПТ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "196457",
+      "name": "ЭУМ-411",
+      "instituteId": "ief",
+      "course": 4
+    },
+    {
+      "id": "196461",
+      "name": "ЭМЭ-271",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "196476",
+      "name": "ЮЮЦ-412",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "196480",
+      "name": "ЮЮМ-411",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "196602",
+      "name": "СГТ-441",
+      "instituteId": "isti",
+      "course": 4
+    },
+    {
+      "id": "196609",
+      "name": "СПС-441",
+      "instituteId": "isti",
+      "course": 4
+    },
+    {
+      "id": "196615",
+      "name": "УНК-272",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "196616",
+      "name": "УНК-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "196620",
+      "name": "УНТ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "196624",
+      "name": "ШЦТ-411",
+      "instituteId": "vish",
+      "course": 4
+    },
+    {
+      "id": "196628",
+      "name": "ШМС-412",
+      "instituteId": "vish",
+      "course": 4
+    },
+    {
+      "id": "196637",
+      "name": "УИТ-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "196765",
+      "name": "ШТА-271",
+      "instituteId": "vish",
+      "course": 2
+    },
+    {
+      "id": "196964",
+      "name": "ДДА-411",
+      "instituteId": "adkh",
+      "course": 4
+    },
+    {
+      "id": "196968",
+      "name": "ДДС-441",
+      "instituteId": "adkh",
+      "course": 4
+    },
+    {
+      "id": "196971",
+      "name": "ДДУ-271",
+      "instituteId": "adkh",
+      "course": 2
+    },
+    {
+      "id": "197024",
+      "name": "ССД-271",
+      "instituteId": "isti",
+      "course": 2
+    },
+    {
+      "id": "197026",
+      "name": "СРП-211",
+      "instituteId": "isti",
+      "course": 2
+    },
+    {
+      "id": "197028",
+      "name": "СРП-411",
+      "instituteId": "isti",
+      "course": 4
+    },
+    {
+      "id": "197178",
+      "name": "АМБ-411",
+      "instituteId": "aga",
+      "course": 4
+    },
+    {
+      "id": "198769",
+      "name": "ВГТ-411",
+      "instituteId": "avt",
+      "course": 4
+    },
+    {
+      "id": "198778",
+      "name": "ЭСБ-541",
+      "instituteId": "ief",
+      "course": 5
+    },
+    {
+      "id": "198917",
+      "name": "ЭСБ-542",
+      "instituteId": "ief",
+      "course": 5
+    },
+    {
+      "id": "199430",
+      "name": "ТЭЛу-423",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "200934",
+      "name": "ЮЮУу-211",
+      "instituteId": "yui",
+      "course": 2
+    },
+    {
+      "id": "200950",
+      "name": "ЮЮГу-211",
+      "instituteId": "yui",
+      "course": 2
+    },
+    {
+      "id": "200951",
+      "name": "ЮЮГу-311",
+      "instituteId": "yui",
+      "course": 3
+    },
+    {
+      "id": "201279",
+      "name": "УВИ-271",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "202498",
+      "name": "АУБ-271",
+      "instituteId": "aga",
+      "course": 2
+    },
+    {
+      "id": "202738",
+      "name": "ДДУ-291",
+      "instituteId": "adkh",
+      "course": 2
+    },
+    {
+      "id": "203018",
+      "name": "ПУИ-271",
+      "instituteId": "pish",
+      "course": 2
+    },
+    {
+      "id": "203020",
+      "name": "ППС-541",
+      "instituteId": "pish",
+      "course": 5
+    },
+    {
+      "id": "203021",
+      "name": "ПРС-541",
+      "instituteId": "pish",
+      "course": 5
+    },
+    {
+      "id": "203024",
+      "name": "ПСЭ-541",
+      "instituteId": "pish",
+      "course": 5
+    },
+    {
+      "id": "204839",
+      "name": "ВЭО-241",
+      "instituteId": "avt",
+      "course": 2
+    },
+    {
+      "id": "204846",
+      "name": "ВСМ-241",
+      "instituteId": "avt",
+      "course": 2
+    },
+    {
+      "id": "205122",
+      "name": "УИК-211",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "205321",
+      "name": "ВСВ-341",
+      "instituteId": "avt",
+      "course": 3
+    },
+    {
+      "id": "205343",
+      "name": "ОМНк-311",
+      "instituteId": "imtk",
+      "course": 3
+    },
+    {
+      "id": "205347",
+      "name": "ТПВ-351",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "205394",
+      "name": "АМБ-212",
+      "instituteId": "aga",
+      "course": 2
+    },
+    {
+      "id": "205447",
+      "name": "ТМР-212",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "205830",
+      "name": "ЮЮГу-321",
+      "instituteId": "yui",
+      "course": 3
+    },
+    {
+      "id": "205833",
+      "name": "ЮПБу-351",
+      "instituteId": "yui",
+      "course": 3
+    },
+    {
+      "id": "208087",
+      "name": "ЭМЭ-272",
+      "instituteId": "ief",
+      "course": 2
+    },
+    {
+      "id": "208145",
+      "name": "УЭП-341",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "208216",
+      "name": "ОММ-211",
+      "instituteId": "imtk",
+      "course": 2
+    },
+    {
+      "id": "208221",
+      "name": "ОМБ-271",
+      "instituteId": "imtk",
+      "course": 2
+    },
+    {
+      "id": "208223",
+      "name": "ОМО-211",
+      "instituteId": "imtk",
+      "course": 2
+    },
+    {
+      "id": "208227",
+      "name": "ОМО-212",
+      "instituteId": "imtk",
+      "course": 2
+    },
+    {
+      "id": "208245",
+      "name": "СМС-271",
+      "instituteId": "isti",
+      "course": 2
+    },
+    {
+      "id": "208247",
+      "name": "СКУ-271",
+      "instituteId": "isti",
+      "course": 2
+    },
+    {
+      "id": "208304",
+      "name": "ПИН-271",
+      "instituteId": "pish",
+      "course": 2
+    },
+    {
+      "id": "208306",
+      "name": "ШИН-271",
+      "instituteId": "vish",
+      "course": 2
+    },
+    {
+      "id": "208326",
+      "name": "ШЭТ-211",
+      "instituteId": "vish",
+      "course": 2
+    },
+    {
+      "id": "208448",
+      "name": "АЛЭ-311",
+      "instituteId": "aga",
+      "course": 3
+    },
+    {
+      "id": "210183",
+      "name": "ТМХ-311",
+      "instituteId": "izht",
+      "course": 3
+    },
+    {
+      "id": "210481",
+      "name": "УЗТ-211",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "210486",
+      "name": "УТМ-211",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "210487",
+      "name": "УМБ-211",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "210662",
+      "name": "ППК-271",
+      "instituteId": "pish",
+      "course": 2
+    },
+    {
+      "id": "210822",
+      "name": "УМБ-212",
+      "instituteId": "izht",
+      "course": 2
+    },
+    {
+      "id": "212331",
+      "name": "ЮЮГу-431",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "212332",
+      "name": "ЮЮУу-431",
+      "instituteId": "yui",
+      "course": 4
+    },
+    {
+      "id": "212569",
+      "name": "ОМКк-211",
+      "instituteId": "imtk",
+      "course": 2
+    },
+    {
+      "id": "212860",
+      "name": "ТЭИу-411",
+      "instituteId": "izht",
+      "course": 4
+    },
+    {
+      "id": "215942",
+      "name": "ЮЮМ-111",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "215943",
+      "name": "ЮЮГ-111",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "215944",
+      "name": "ЮЮУ-111",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "215946",
+      "name": "ЮТМ-141",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "215947",
+      "name": "ЮТТ-141",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "215948",
+      "name": "ЮПБ-141",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "215949",
+      "name": "ЮСИ-141",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "215958",
+      "name": "ВУТ-111",
+      "instituteId": "avt",
+      "course": 1
+    },
+    {
+      "id": "215959",
+      "name": "ВГТ-111",
+      "instituteId": "avt",
+      "course": 1
+    },
+    {
+      "id": "215960",
+      "name": "ВУП-111",
+      "instituteId": "avt",
+      "course": 1
+    },
+    {
+      "id": "215961",
+      "name": "ВЭО-141",
+      "instituteId": "avt",
+      "course": 1
+    },
+    {
+      "id": "215962",
+      "name": "ВСМ-141",
+      "instituteId": "avt",
+      "course": 1
+    },
+    {
+      "id": "215963",
+      "name": "ВСВ-141",
+      "instituteId": "avt",
+      "course": 1
+    },
+    {
+      "id": "215964",
+      "name": "АУБ-171",
+      "instituteId": "aga",
+      "course": 1
+    },
+    {
+      "id": "215965",
+      "name": "АИС-171",
+      "instituteId": "aga",
+      "course": 1
+    },
+    {
+      "id": "215966",
+      "name": "АМБ-111",
+      "instituteId": "aga",
+      "course": 1
+    },
+    {
+      "id": "215967",
+      "name": "АЭБ-111",
+      "instituteId": "aga",
+      "course": 1
+    },
+    {
+      "id": "215968",
+      "name": "ДДА-111",
+      "instituteId": "adkh",
+      "course": 1
+    },
+    {
+      "id": "215969",
+      "name": "ДДС-141",
+      "instituteId": "adkh",
+      "course": 1
+    },
+    {
+      "id": "215970",
+      "name": "ШМС-111",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "215971",
+      "name": "ШТД-111",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "215972",
+      "name": "ШАД-111",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "215973",
+      "name": "ШТС-111",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "215974",
+      "name": "ШЦТ-111",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "215975",
+      "name": "ШТА-171",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "215976",
+      "name": "ШИН-171",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "215977",
+      "name": "ОМО-171",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "215978",
+      "name": "ОМН-171",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "215980",
+      "name": "ОМБ-171",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "215981",
+      "name": "ОМКк-111",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "215982",
+      "name": "ОМНк-111",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "215983",
+      "name": "ОММ-111",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "215984",
+      "name": "ОМО-111",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "215985",
+      "name": "ОММ-121",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "215986",
+      "name": "СГС-171",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215987",
+      "name": "САП-171",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215988",
+      "name": "СГК-171",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215989",
+      "name": "СКХ-171",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215990",
+      "name": "ССД-171",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215991",
+      "name": "СКУ-171",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215992",
+      "name": "СМС-171",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215993",
+      "name": "СКУ-181",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215995",
+      "name": "САП-111",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215996",
+      "name": "СГС-111",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215997",
+      "name": "СЗК-111",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215998",
+      "name": "СКУ-121",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "215999",
+      "name": "СЖД-143",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216000",
+      "name": "СТП-143",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216001",
+      "name": "СММ-143",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216002",
+      "name": "СМТ-141",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216003",
+      "name": "СПС-141",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216004",
+      "name": "СГТ-141",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216005",
+      "name": "ЭЭТ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216006",
+      "name": "ЭЭФ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216007",
+      "name": "ЭЭБ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216008",
+      "name": "ЭЭП-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216009",
+      "name": "ЭЭПд-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216010",
+      "name": "ЭЭС-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216011",
+      "name": "ЭБР-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216012",
+      "name": "ЭЭУ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216013",
+      "name": "ЭГС-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216014",
+      "name": "ЭБЦ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216015",
+      "name": "ЭБЦд-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216016",
+      "name": "ЭУЦ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216017",
+      "name": "ЭЭЛ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216018",
+      "name": "ЭГП-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216019",
+      "name": "ЭПИ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216020",
+      "name": "ЭЛМ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216021",
+      "name": "ЭУМ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216022",
+      "name": "ЭПТ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216023",
+      "name": "ЭСБ-141",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216024",
+      "name": "ЭМОд-171",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216025",
+      "name": "ЭМПд-171",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216026",
+      "name": "ЭМБд-171",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216027",
+      "name": "ЭМС-171",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216028",
+      "name": "ЭМУ-171",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216029",
+      "name": "ЭМНд-171",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216030",
+      "name": "ЭММ-171",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216031",
+      "name": "ЭМЭ-171",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216032",
+      "name": "ЭМГд-171",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216033",
+      "name": "ЭМТд-181",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216034",
+      "name": "ЭМПд-181",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216035",
+      "name": "ЭМДд-181",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216036",
+      "name": "ЭМРд-181",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216082",
+      "name": "ЮМТ-171",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216083",
+      "name": "ЮМН-171",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216084",
+      "name": "ЮМБ-171",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216085",
+      "name": "ЮМП-171",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216086",
+      "name": "ЮМЦ-171",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216091",
+      "name": "ЮТТ-151",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216092",
+      "name": "ЮЮГ-121",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216099",
+      "name": "ДДА-112",
+      "instituteId": "adkh",
+      "course": 1
+    },
+    {
+      "id": "216103",
+      "name": "ЮПБ-142",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216110",
+      "name": "СГС-112",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216111",
+      "name": "СГС-113",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216112",
+      "name": "ЭПИ-113",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216113",
+      "name": "ЭПИ-112",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216114",
+      "name": "ЦКИ-112",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216115",
+      "name": "ЦКИ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216116",
+      "name": "ЦКБ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216117",
+      "name": "ЦКБ-142",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216118",
+      "name": "ШМС-112",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "216119",
+      "name": "ЦТВ-112",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216120",
+      "name": "ЦТВ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216121",
+      "name": "ЦРС-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216122",
+      "name": "ЦРС-112",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216123",
+      "name": "ЦОМ-112",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216124",
+      "name": "ЦОМ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216125",
+      "name": "ЦЦТ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216126",
+      "name": "ЦЦТ-112",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216127",
+      "name": "ЦДД-142",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216128",
+      "name": "ЦДД-143",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216129",
+      "name": "ЦДД-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216130",
+      "name": "ЦДЛ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216131",
+      "name": "ЦДЛ-142",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216132",
+      "name": "ЦЭЛ-142",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216133",
+      "name": "ЦЭЛ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216134",
+      "name": "ЦША-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216135",
+      "name": "ЦША-142",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216136",
+      "name": "ЦСС-142",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216137",
+      "name": "ЦСС-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216138",
+      "name": "СЖД-142",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216139",
+      "name": "СЖД-141",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216140",
+      "name": "СТП-141",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216141",
+      "name": "СТП-142",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216142",
+      "name": "СММ-141",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216143",
+      "name": "СММ-142",
+      "instituteId": "isti",
+      "course": 1
+    },
+    {
+      "id": "216144",
+      "name": "АМБ-112",
+      "instituteId": "aga",
+      "course": 1
+    },
+    {
+      "id": "216145",
+      "name": "ОМНк-112",
+      "instituteId": "imtk",
+      "course": 1
+    },
+    {
+      "id": "216146",
+      "name": "ЮТМ-142",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216147",
+      "name": "ЮТМ-143",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216148",
+      "name": "ЮЮГ-112",
+      "instituteId": "yui",
+      "course": 1
+    },
+    {
+      "id": "216150",
+      "name": "ЭБР-112",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216151",
+      "name": "ЭБТ-112",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216152",
+      "name": "ЭБТ-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216153",
+      "name": "ЦЭЛ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216154",
+      "name": "ЦЭЛ-172",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216156",
+      "name": "ЭМБд-172",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "216157",
+      "name": "ДДУ-171",
+      "instituteId": "adkh",
+      "course": 1
+    },
+    {
+      "id": "216158",
+      "name": "ПУИ-171",
+      "instituteId": "pish",
+      "course": 1
+    },
+    {
+      "id": "216159",
+      "name": "ППС-141",
+      "instituteId": "pish",
+      "course": 1
+    },
+    {
+      "id": "216160",
+      "name": "ПСЭ-141",
+      "instituteId": "pish",
+      "course": 1
+    },
+    {
+      "id": "216161",
+      "name": "ПИН-171",
+      "instituteId": "pish",
+      "course": 1
+    },
+    {
+      "id": "216163",
+      "name": "ШАДк-111",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "216194",
+      "name": "ДДУ-191",
+      "instituteId": "adkh",
+      "course": 1
+    },
+    {
+      "id": "216199",
+      "name": "ЦПМ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216200",
+      "name": "ЦКК-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216201",
+      "name": "ЦВВ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216202",
+      "name": "ЦИС-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216203",
+      "name": "ЦИИ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216204",
+      "name": "ЦВВ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216205",
+      "name": "ЦКИ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216206",
+      "name": "ЦИИ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216207",
+      "name": "ЦИБ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216208",
+      "name": "ЦИБ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216209",
+      "name": "ЦБТ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216231",
+      "name": "ЦБГ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216232",
+      "name": "ЦДД-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216233",
+      "name": "ЦОД-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216234",
+      "name": "ЦЦТ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216235",
+      "name": "ЦУМ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216236",
+      "name": "ЦУП-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216237",
+      "name": "ЦИБ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216238",
+      "name": "ЦДМ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216239",
+      "name": "ЦЛУ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216240",
+      "name": "ЦИЗ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216241",
+      "name": "ЦЭЦ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216242",
+      "name": "ЦМЛ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216243",
+      "name": "ЦМБ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216246",
+      "name": "ЦДА-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216247",
+      "name": "ЦТВ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216248",
+      "name": "ЦРС-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216249",
+      "name": "ЦБЖ-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216250",
+      "name": "ЦБО-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216251",
+      "name": "ЦНК-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216252",
+      "name": "ЦНС-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216253",
+      "name": "ЦПД-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216254",
+      "name": "ЦТЛ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216255",
+      "name": "ЦТЭ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216256",
+      "name": "ЦТР-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216257",
+      "name": "ЦВП-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216258",
+      "name": "ЦВГ-141",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216259",
+      "name": "ЦИР-111",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216260",
+      "name": "ЦУТ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216261",
+      "name": "ЦИР-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216268",
+      "name": "ППУ-171",
+      "instituteId": "pish",
+      "course": 1
+    },
+    {
+      "id": "216271",
+      "name": "ППК-171",
+      "instituteId": "pish",
+      "course": 1
+    },
+    {
+      "id": "216272",
+      "name": "ПСП-171",
+      "instituteId": "pish",
+      "course": 1
+    },
+    {
+      "id": "216300",
+      "name": "ЦТЭ-171",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216302",
+      "name": "ЦТР-151",
+      "instituteId": "izht",
+      "course": 1
+    },
+    {
+      "id": "216304",
+      "name": "ЭПО-111",
+      "instituteId": "ief",
+      "course": 1
+    },
+    {
+      "id": "217525",
+      "name": "ШАД-112",
+      "instituteId": "vish",
+      "course": 1
+    },
+    {
+      "id": "217689",
+      "name": "ЦТР-152",
+      "instituteId": "izht",
+      "course": 1
+    }
+  ],
+  "removed": [
+    {
+      "id": "122671",
+      "name": "САП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "122686",
+      "name": "УИБ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "122722",
+      "name": "ЭЭУ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "123136",
+      "name": "УИС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "123145",
+      "name": "УМЛ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "123487",
+      "name": "СЗК-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "123610",
+      "name": "ТТП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "124328",
+      "name": "УМЛ-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "131271",
+      "name": "ЮПБ-261",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "132469",
+      "name": "ТТП-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "135392",
+      "name": "ТУП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "135795",
+      "name": "УИБ-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "139973",
+      "name": "ЭБР-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "140062",
+      "name": "ЮЮГ-313",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "141206",
+      "name": "ЭГФ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "142596",
+      "name": "ЭЭБ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "142598",
+      "name": "ЭЭФ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "142604",
+      "name": "ЭЭП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "143858",
+      "name": "ТБЖ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "149827",
+      "name": "ЭГС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "149832",
+      "name": "ЭБР-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "151764",
+      "name": "ЮЮГ-213",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "151765",
+      "name": "ЮЮГ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "151766",
+      "name": "ЮЮГ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "152275",
+      "name": "УТН-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "155531",
+      "name": "ЭБР-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161930",
+      "name": "СГС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161931",
+      "name": "СГС-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "161934",
+      "name": "СГС-213",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "164732",
+      "name": "ТМТ-391",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "165290",
+      "name": "УТЦ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "165540",
+      "name": "ЭУЦ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "172249",
+      "name": "ТМС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "172255",
+      "name": "УВВ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "172256",
+      "name": "УЗС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "172259",
+      "name": "УТА-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "175079",
+      "name": "УТЦ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "175083",
+      "name": "ОМН-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "175717",
+      "name": "ТУУ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "182043",
+      "name": "ВУТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "184113",
+      "name": "ВГТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185351",
+      "name": "ШТД-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185407",
+      "name": "ШАД-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185411",
+      "name": "ШМС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185433",
+      "name": "ЭГУ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185437",
+      "name": "ЭГП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "185464",
+      "name": "ЭБЦ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "187146",
+      "name": "ТИУ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188575",
+      "name": "УВП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188719",
+      "name": "ТМР-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188726",
+      "name": "ЭПИ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188793",
+      "name": "ЮЮЦ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188830",
+      "name": "ЭЛМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "188869",
+      "name": "УПМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189007",
+      "name": "ЭПИ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189046",
+      "name": "ОМО-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189053",
+      "name": "ВВП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189103",
+      "name": "УВП-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189142",
+      "name": "УПМ-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189179",
+      "name": "ОМО-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189524",
+      "name": "ШЭТ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189530",
+      "name": "ШТС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "189999",
+      "name": "УВВ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190001",
+      "name": "УВП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190004",
+      "name": "УИБ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190021",
+      "name": "УМЛ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190024",
+      "name": "УЭБ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190029",
+      "name": "УЭГ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190034",
+      "name": "УЭМ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190035",
+      "name": "УЭМ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190036",
+      "name": "УЭМ-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190038",
+      "name": "УЭМ-244",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190067",
+      "name": "УЭЛ-343",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190071",
+      "name": "УЭЛ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190072",
+      "name": "УЭЛ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190074",
+      "name": "УЭИ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "190083",
+      "name": "УЭЦ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "192969",
+      "name": "ТКТ-531",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "192970",
+      "name": "ТКТ-532",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193048",
+      "name": "ТУП-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193083",
+      "name": "ОММ-121",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193094",
+      "name": "СГС-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193125",
+      "name": "СКУ-121",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193213",
+      "name": "ЭВБ-421",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193300",
+      "name": "ЮЮГ-121",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193301",
+      "name": "ЮЮЦ-121",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193303",
+      "name": "ЮЮЦ-321",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193331",
+      "name": "ОМН-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193334",
+      "name": "ОМО-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193341",
+      "name": "САП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193347",
+      "name": "СГС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193352",
+      "name": "СКХ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193360",
+      "name": "ТТБ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193365",
+      "name": "ТИА-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193367",
+      "name": "ТРС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193370",
+      "name": "ТНК-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193374",
+      "name": "ТНС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193376",
+      "name": "ТТП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193381",
+      "name": "ТУП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193385",
+      "name": "ТУУ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193388",
+      "name": "ТЭМ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193391",
+      "name": "ТПЭ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193399",
+      "name": "ЭММ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193408",
+      "name": "ЭМУ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193424",
+      "name": "ЮМТ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193426",
+      "name": "ЮМП-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193436",
+      "name": "СКУ-181",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193560",
+      "name": "ВСМ-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193566",
+      "name": "ВСС-441",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193586",
+      "name": "ВЭО-241",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193626",
+      "name": "СЖД-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193704",
+      "name": "СТП-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193715",
+      "name": "ТКИ-542",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193730",
+      "name": "ТКИ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193745",
+      "name": "ТНД-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193799",
+      "name": "ТПЛ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193807",
+      "name": "ТПЛ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193818",
+      "name": "ТПР-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193833",
+      "name": "ТПТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193856",
+      "name": "ТПЭ-242",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193858",
+      "name": "ТПЭ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193897",
+      "name": "ТСА-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193908",
+      "name": "ТСТ-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193921",
+      "name": "ТСТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193928",
+      "name": "ТСЭ-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193950",
+      "name": "ТСЭ-243",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193956",
+      "name": "ТСЭ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193959",
+      "name": "ЭСБ-542",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193992",
+      "name": "ЭСБ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "193998",
+      "name": "ЭСБ-442",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194008",
+      "name": "ЮПБ-342",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194024",
+      "name": "ЮПБ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194051",
+      "name": "ЮСИ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194071",
+      "name": "ЮТМ-343",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194081",
+      "name": "ЮТМ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194085",
+      "name": "ЮТТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194095",
+      "name": "СТП-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194115",
+      "name": "ТПЛ-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194140",
+      "name": "СММ-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194151",
+      "name": "СМТ-552",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194177",
+      "name": "ТСО-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194201",
+      "name": "ЮПБ-151",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194212",
+      "name": "ЮТЛ-551",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194304",
+      "name": "ЮЮУ-231",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194333",
+      "name": "СММ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194337",
+      "name": "СМТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194407",
+      "name": "ЮТТ-151",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194410",
+      "name": "ЮТТ-451",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194439",
+      "name": "СЖД-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194440",
+      "name": "СММ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194451",
+      "name": "ТЭМ-172",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194461",
+      "name": "СММ-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194462",
+      "name": "СЖД-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194465",
+      "name": "СТП-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194466",
+      "name": "СТП-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194467",
+      "name": "СТП-144",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194475",
+      "name": "ТСА-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194477",
+      "name": "ТСТ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194478",
+      "name": "ТСЭ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194515",
+      "name": "ЮПБ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194516",
+      "name": "ЮТМ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194517",
+      "name": "ЮТМ-143",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194599",
+      "name": "ЭЭТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194656",
+      "name": "УИБ-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194657",
+      "name": "УИС-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194687",
+      "name": "УМН-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194699",
+      "name": "УТН-212",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194732",
+      "name": "ЮЮУ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194748",
+      "name": "УТЦ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194750",
+      "name": "УТЦ-172",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194811",
+      "name": "ЭЭС-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194812",
+      "name": "ЭМС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "194854",
+      "name": "ЭЭЛ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196426",
+      "name": "ЭУМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196429",
+      "name": "ЭМЭ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196442",
+      "name": "ЭБП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196475",
+      "name": "ЮЮЦ-312",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196477",
+      "name": "ЮЮМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196599",
+      "name": "СГТ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196608",
+      "name": "СПС-341",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196613",
+      "name": "УНК-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196614",
+      "name": "УНК-172",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196617",
+      "name": "УНТ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196621",
+      "name": "ШЦТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196625",
+      "name": "ШМС-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196764",
+      "name": "ШТА-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196961",
+      "name": "ДДА-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196965",
+      "name": "ДДС-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "196970",
+      "name": "ДДУ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "197023",
+      "name": "ССД-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "197025",
+      "name": "СРП-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "197027",
+      "name": "СРП-311",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "197175",
+      "name": "АМБ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "198879",
+      "name": "ТКИ-142",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "201278",
+      "name": "УВИ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "201977",
+      "name": "УИТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202017",
+      "name": "ТМР-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202181",
+      "name": "ВСВ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202198",
+      "name": "ТЭИ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202497",
+      "name": "АУБ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "202737",
+      "name": "ДДУ-191",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "203017",
+      "name": "ПУИ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "204838",
+      "name": "ВЭО-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "204847",
+      "name": "ВСМ-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205121",
+      "name": "УИК-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205345",
+      "name": "ТПВ-151",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205346",
+      "name": "ТПВ-251",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205352",
+      "name": "ТНС-181",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "205393",
+      "name": "АМБ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208086",
+      "name": "ЭМЭ-172",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208118",
+      "name": "УЭП-141",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208176",
+      "name": "УЗТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208177",
+      "name": "УТМ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208178",
+      "name": "УМБ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208179",
+      "name": "УМБ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208215",
+      "name": "ОММ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208220",
+      "name": "ОМБ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208222",
+      "name": "ОМО-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208226",
+      "name": "ОМО-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208244",
+      "name": "СМС-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208246",
+      "name": "СКУ-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208303",
+      "name": "ПИН-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208305",
+      "name": "ШИН-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208325",
+      "name": "ШЭТ-111",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "208464",
+      "name": "ШЭТ-112",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "210182",
+      "name": "ТМХ-211",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    },
+    {
+      "id": "210661",
+      "name": "ППК-171",
+      "institute": "РУТ (МИИТ)",
+      "specialty": ""
+    }
+  ],
+  "renamed": [
+    {
+      "id": "140100",
+      "before": "ТУП-311",
+      "after": "ЭПО-311"
+    },
+    {
+      "id": "149820",
+      "before": "ТУП-211",
+      "after": "ЭПО-211"
+    },
+    {
+      "id": "196443",
+      "before": "ЭБП-211",
+      "after": "ЭПТ-211"
+    },
+    {
+      "id": "196444",
+      "before": "ЭБП-311",
+      "after": "ЭПТ-311"
+    }
+  ],
+  "orphanTimetableIds": [
+    "122671",
+    "122686",
+    "122722",
+    "123136",
+    "123145",
+    "123487",
+    "123610",
+    "124328",
+    "131271",
+    "132469",
+    "135392",
+    "135795",
+    "139973",
+    "140062",
+    "141206",
+    "142596",
+    "142598",
+    "142604",
+    "143858",
+    "149827",
+    "149832",
+    "151764",
+    "151765",
+    "151766",
+    "152275",
+    "155531",
+    "161930",
+    "161931",
+    "161934",
+    "164732",
+    "165290",
+    "165540",
+    "172249",
+    "172255",
+    "172256",
+    "172259",
+    "175079",
+    "175083",
+    "175717",
+    "182043",
+    "184113",
+    "185351",
+    "185407",
+    "185411",
+    "185433",
+    "185437",
+    "185464",
+    "187146",
+    "188575",
+    "188719",
+    "188726",
+    "188793",
+    "188830",
+    "188869",
+    "189007",
+    "189046",
+    "189053",
+    "189103",
+    "189142",
+    "189179",
+    "189524",
+    "189530",
+    "189999",
+    "190001",
+    "190004",
+    "190021",
+    "190024",
+    "190029",
+    "190034",
+    "190035",
+    "190036",
+    "190038",
+    "190067",
+    "190071",
+    "190072",
+    "190074",
+    "190083",
+    "192969",
+    "192970",
+    "193048",
+    "193083",
+    "193094",
+    "193125",
+    "193213",
+    "193300",
+    "193301",
+    "193303",
+    "193331",
+    "193334",
+    "193341",
+    "193347",
+    "193352",
+    "193360",
+    "193365",
+    "193367",
+    "193370",
+    "193374",
+    "193376",
+    "193381",
+    "193385",
+    "193388",
+    "193391",
+    "193399",
+    "193408",
+    "193424",
+    "193426",
+    "193436",
+    "193560",
+    "193566",
+    "193586",
+    "193626",
+    "193704",
+    "193715",
+    "193730",
+    "193745",
+    "193799",
+    "193807",
+    "193818",
+    "193833",
+    "193856",
+    "193858",
+    "193897",
+    "193908",
+    "193921",
+    "193928",
+    "193950",
+    "193956",
+    "193959",
+    "193992",
+    "193998",
+    "194008",
+    "194024",
+    "194051",
+    "194071",
+    "194081",
+    "194085",
+    "194095",
+    "194115",
+    "194140",
+    "194151",
+    "194177",
+    "194201",
+    "194212",
+    "194304",
+    "194333",
+    "194337",
+    "194407",
+    "194410",
+    "194439",
+    "194440",
+    "194451",
+    "194461",
+    "194462",
+    "194465",
+    "194466",
+    "194467",
+    "194475",
+    "194477",
+    "194478",
+    "194515",
+    "194516",
+    "194517",
+    "194599",
+    "194656",
+    "194657",
+    "194687",
+    "194699",
+    "194732",
+    "194748",
+    "194750",
+    "194811",
+    "194812",
+    "194854",
+    "196426",
+    "196429",
+    "196442",
+    "196475",
+    "196477",
+    "196599",
+    "196608",
+    "196613",
+    "196614",
+    "196617",
+    "196621",
+    "196625",
+    "196764",
+    "196961",
+    "196965",
+    "196970",
+    "197023",
+    "197025",
+    "197027",
+    "197175",
+    "198879",
+    "201278",
+    "201977",
+    "202017",
+    "202181",
+    "202198",
+    "202497",
+    "202737",
+    "203017",
+    "204838",
+    "204847",
+    "205121",
+    "205345",
+    "205346",
+    "205352",
+    "205393",
+    "208086",
+    "208118",
+    "208176",
+    "208177",
+    "208178",
+    "208179",
+    "208215",
+    "208220",
+    "208222",
+    "208226",
+    "208244",
+    "208246",
+    "208303",
+    "208305",
+    "208325",
+    "208464",
+    "210182",
+    "210661"
+  ]
+}

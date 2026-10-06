@@ -4,155 +4,940 @@
   "university": "РУТ (МИИТ)",
   "groupId": "190082",
   "group": "УЭЦ-241",
-  "updatedAt": "2026-06-12T20:29:19+03:00",
+  "updatedAt": "2026-10-06T10:38:35+03:00",
   "semester": {
-    "startDate": "2026-06-01",
-    "endDate": "2026-06-30",
+    "startDate": "2026-09-01",
+    "endDate": "2027-01-04",
     "firstWeekParity": "odd"
   },
-  "events": [
-    {
-      "id": "moscow-rut-miit_190082_2026-06-16_bd5427d44bf6",
-      "date": "2026-06-16",
-      "weekday": "Вторник",
-      "weekdayNumber": 2,
-      "time": "09:00 — 10:00",
-      "startTime": "09:00",
-      "endTime": "10:00",
-      "kind": "Консультация",
-      "category": "consultation",
-      "subject": "Управление эксплуатационной работой",
-      "teacher": "Шмаль Вадим Николаевич",
-      "room": "1506",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_190082_2026-06-17_16fe22325769",
-      "date": "2026-06-17",
-      "weekday": "Среда",
-      "weekdayNumber": 3,
-      "time": "11:00 — 18:00",
-      "startTime": "11:00",
-      "endTime": "18:00",
-      "kind": "Экзамен",
-      "category": "exam",
-      "subject": "Управление эксплуатационной работой",
-      "teacher": "Шмаль Вадим Николаевич",
-      "room": "1506",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "Экзамен",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_190082_2026-06-19_00e7f576da96",
-      "date": "2026-06-19",
-      "weekday": "Пятница",
-      "weekdayNumber": 5,
-      "time": "09:00 — 10:00",
-      "startTime": "09:00",
-      "endTime": "10:00",
-      "kind": "Консультация",
-      "category": "consultation",
-      "subject": "Локомотивы, электроснабжение и тяга поездов",
-      "teacher": "Белов Виталий Александрович",
-      "room": "4116-2",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_190082_2026-06-20_fff83d410cdd",
-      "date": "2026-06-20",
-      "weekday": "Суббота",
-      "weekdayNumber": 6,
-      "time": "11:00 — 18:00",
-      "startTime": "11:00",
-      "endTime": "18:00",
-      "kind": "Экзамен",
-      "category": "exam",
-      "subject": "Локомотивы, электроснабжение и тяга поездов",
-      "teacher": "Белов Виталий Александрович",
-      "room": "4116-2",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "Экзамен",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_190082_2026-06-24_c3053f161a59",
-      "date": "2026-06-24",
-      "weekday": "Среда",
-      "weekdayNumber": 3,
-      "time": "09:00 — 10:00",
-      "startTime": "09:00",
-      "endTime": "10:00",
-      "kind": "Консультация",
-      "category": "consultation",
-      "subject": "Транспортно-грузовые системы",
-      "teacher": "Журавлёв Николай Петрович",
-      "room": "1528",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_190082_2026-06-25_a40dafc2e3f4",
-      "date": "2026-06-25",
-      "weekday": "Четверг",
-      "weekdayNumber": 4,
-      "time": "11:00 — 18:00",
-      "startTime": "11:00",
-      "endTime": "18:00",
-      "kind": "Экзамен",
-      "category": "exam",
-      "subject": "Транспортно-грузовые системы",
-      "teacher": "Журавлёв Николай Петрович",
-      "room": "1528",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "Экзамен",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-06-01&type=1"
-    }
-  ],
+  "events": [],
   "lessons": {
-    "odd": [],
-    "even": []
+    "odd": [
+      {
+        "id": "moscow-rut-miit_190082_w3_1cc1766ae961",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Теоретическая механика",
+        "teacher": "Акулич Владимир Юрьевич",
+        "room": "1529",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w4_63ef39a0f729",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Иванцов Артём Николаевич",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w5_01f88241c908",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Основы геодезии и проектирования железных дорог",
+        "teacher": "Кожевников Владимир Владимирович; Парамонов Михаил Александрович",
+        "room": "2422",
+        "address": "ГУК-2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w3_919c8fcfbf13",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Теоретическая механика",
+        "teacher": "Акулич Владимир Юрьевич",
+        "room": "1553",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w4_e8bfe0daa4a9",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Пути сообщения и транспортные сооружения",
+        "teacher": "Манюгина Галина Алексеевна",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w5_1f3a74b3fbff",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основы геодезии и проектирования железных дорог",
+        "teacher": "Кожевников Владимир Владимирович",
+        "room": "1553",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w3_5b235a9a8017",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Физика",
+        "teacher": "Андреев Александр Иванович",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w5_8eb55b9c348a",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Организация и управление производством",
+        "teacher": "Попова Надежда Владимировна",
+        "room": "1317",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w3_504471174fec",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Иванцов Артём Николаевич",
+        "room": "2320",
+        "address": "ГУК-2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w5_bc9f5bb26dcc",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Организация доступной среды на транспорте",
+        "teacher": "Хлопенова Елизавета Андреевна",
+        "room": "2320",
+        "address": "ГУК-2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w5_6ee5e74f1565",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Нетяговый подвижной состав",
+        "teacher": "Журавлёв Николай Петрович",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w2_aef110055586",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "История транспорта",
+        "teacher": "Федякин Алексей Владимирович",
+        "room": "1529",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w1_611a19ea9e42",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Организация доступной среды на транспорте",
+        "teacher": "Куликова Екатерина Борисовна",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w2_d559e330e720",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Шинкарь Елена Викторовна",
+        "room": "1541",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w1_03069f1d6afd",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Организация и управление производством",
+        "teacher": "Дроздова Илона Игоревна",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      }
+    ],
+    "even": [
+      {
+        "id": "moscow-rut-miit_190082_w3_1cc1766ae961",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Теоретическая механика",
+        "teacher": "Акулич Владимир Юрьевич",
+        "room": "1529",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w4_63ef39a0f729",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Иванцов Артём Николаевич",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w3_919c8fcfbf13",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Теоретическая механика",
+        "teacher": "Акулич Владимир Юрьевич",
+        "room": "1553",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w4_e8bfe0daa4a9",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Пути сообщения и транспортные сооружения",
+        "teacher": "Манюгина Галина Алексеевна",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w3_770d1f6a1688",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "История транспорта",
+        "teacher": "Федякин Алексей Владимирович",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w4_7ef371db22d7",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Пути сообщения и транспортные сооружения",
+        "teacher": "Иванникова Елена Евгеньевна",
+        "room": "2406",
+        "address": "ГУК-2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w5_21c8967f5eff",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Иванцов Артём Николаевич",
+        "room": "2322",
+        "address": "ГУК-2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w5_af4cb3cb31cd",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Теоретическая механика",
+        "teacher": "Акулич Владимир Юрьевич",
+        "room": "1142",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w2_e03fa4cc0fb7",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Физика",
+        "teacher": "Маринова Софья Андреевна",
+        "room": "14206, 14207",
+        "address": "ГУК-14",
+        "groups": [],
+        "subgroup": "п/гр.1, п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w5_6ee5e74f1565",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Нетяговый подвижной состав",
+        "teacher": "Журавлёв Николай Петрович",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w1_460adbe5f0ed",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Физика",
+        "teacher": "Андреев Александр Иванович",
+        "room": "14321",
+        "address": "ГУК-14",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w2_e12b8881f4f9",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Нетяговый подвижной состав",
+        "teacher": "Бальчюнас Даниэль Ромуальдасович; Шмаль Сергей Николаевич",
+        "room": "1528",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w1_495563999e7a",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Физика",
+        "teacher": "Андреев Александр Иванович",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w2_d559e330e720",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Шинкарь Елена Викторовна",
+        "room": "1541",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190082_w1_03069f1d6afd",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Организация и управление производством",
+        "teacher": "Дроздова Илона Игоревна",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190075",
+            "name": "УЭИ-241"
+          },
+          {
+            "id": "190041",
+            "name": "УЭМ-241"
+          },
+          {
+            "id": "190040",
+            "name": "УЭМ-242"
+          },
+          {
+            "id": "190039",
+            "name": "УЭМ-243"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
+      }
+    ]
   },
   "exceptions": [],
   "meta": {
     "source": "miit.ru",
-    "parserVersion": "3.2-js-smart-safe",
+    "parserVersion": "3.3-current-catalog-unified",
     "timezone": "Europe/Moscow",
-    "errors": []
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/190082?start=2026-09-01&type=1"
   }
 }

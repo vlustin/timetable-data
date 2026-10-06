@@ -4,7 +4,7 @@
   "university": "РУТ (МИИТ)",
   "groupId": "193594",
   "group": "СЖД-441",
-  "updatedAt": "2026-10-05T22:00:07+03:00",
+  "updatedAt": "2026-10-06T10:48:11+03:00",
   "semester": {
     "startDate": "2026-09-01",
     "endDate": "2027-01-04",
@@ -14,8 +14,16 @@
   "lessons": {
     "odd": [
       {
-        "subject": "Изыскания и проектирование железных дорог",
+        "id": "moscow-rut-miit_193594_w2_660bc708b6b0",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
         "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Изыскания и проектирование железных дорог",
         "teacher": "Рыжик Екатерина Александровна",
         "room": "356",
         "address": "РОАТ, Часовая 1",
@@ -24,41 +32,42 @@
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Вторник",
-        "weekdayNumber": 2,
-        "startTime": "08:30",
-        "endTime": "09:50",
-        "time": "08:30 — 09:50",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_49de3dbff694"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Содержание мостов и тоннелей",
+        "id": "moscow-rut-miit_193594_w4_b761de6acfcb",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
         "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Содержание мостов и тоннелей",
         "teacher": "Афанасьев Владимир Сергеевич; Филаткин Андрей Сергеевич",
         "room": "271",
         "address": "РОАТ, Часовая 2",
-        "groups": [
-          "СЖД-441 п/гр.1",
-          "СЖД-441 п/гр.2"
-        ],
+        "groups": [],
         "subgroup": "п/гр.1, п/гр.2",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Четверг",
-        "weekdayNumber": 4,
-        "startTime": "08:30",
-        "endTime": "09:50",
-        "time": "08:30 — 09:50",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_39a23ddafedd"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Военная подготовка",
+        "id": "moscow-rut-miit_193594_w5_2fa464d5c33b",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
         "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Военная подготовка",
         "teacher": "",
         "room": "",
         "address": "",
@@ -67,213 +76,275 @@
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Пятница",
-        "weekdayNumber": 5,
-        "startTime": "08:30",
-        "endTime": "09:50",
-        "time": "08:30 — 09:50",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_9e3442d1ccff"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Изыскания и проектирование железных дорог",
+        "id": "moscow-rut-miit_193594_w2_89066aa8b5b1",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Изыскания и проектирование железных дорог",
         "teacher": "Кожевников Владимир Владимирович",
         "room": "472",
         "address": "РОАТ, Часовая 2",
         "groups": [
-          "СГТ-441",
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "196602",
+            "name": "СГТ-441"
+          },
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Вторник",
-        "weekdayNumber": 2,
-        "startTime": "10:05",
-        "endTime": "11:25",
-        "time": "10:05 — 11:25",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_bd4711938005"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Мосты на железных дорогах",
+        "id": "moscow-rut-miit_193594_w4_e5e4c8a242be",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Мосты на железных дорогах",
         "teacher": "Мазур Евгений Витальевич",
         "room": "520-520а",
         "address": "РОАТ, Часовая 1",
         "groups": [
-          "СГТ-441",
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "196602",
+            "name": "СГТ-441"
+          },
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Четверг",
-        "weekdayNumber": 4,
-        "startTime": "10:05",
-        "endTime": "11:25",
-        "time": "10:05 — 11:25",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_156590b78426"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Технология и механизация содержания железнодорожного пути",
+        "id": "moscow-rut-miit_193594_w2_d1e5c78e63c5",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Технология и механизация содержания железнодорожного пути",
         "teacher": "Коваленко Николай Иванович",
         "room": "502",
         "address": "РОАТ, Часовая 1",
         "groups": [
-          "СГТ-441",
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "196602",
+            "name": "СГТ-441"
+          },
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Вторник",
-        "weekdayNumber": 2,
-        "startTime": "11:40",
-        "endTime": "13:00",
-        "time": "11:40 — 13:00",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_9ffae7065d3d"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Инженерная экология",
+        "id": "moscow-rut-miit_193594_w3_45c4cf2d9824",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Инженерная экология",
         "teacher": "Коновал Инна Алексеевна",
         "room": "1540",
         "address": "ГУК-1",
         "groups": [
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Среда",
-        "weekdayNumber": 3,
-        "startTime": "11:40",
-        "endTime": "13:00",
-        "time": "11:40 — 13:00",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_49756c7bf7d0"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Содержание мостов и тоннелей",
+        "id": "moscow-rut-miit_193594_w4_13bf3aeea6dc",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Содержание мостов и тоннелей",
         "teacher": "Филаткин Андрей Сергеевич",
         "room": "520-520а",
         "address": "РОАТ, Часовая 1",
         "groups": [
-          "СГТ-441",
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "196602",
+            "name": "СГТ-441"
+          },
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Четверг",
-        "weekdayNumber": 4,
-        "startTime": "11:40",
-        "endTime": "13:00",
-        "time": "11:40 — 13:00",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_6cc24ecd1890"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Мосты на железных дорогах",
+        "id": "moscow-rut-miit_193594_w1_a4b6db236a80",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
         "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Мосты на железных дорогах",
         "teacher": "Мазур Евгений Витальевич; Фомина Александра Петровна",
         "room": "105",
         "address": "РОАТ, Часовая 1",
-        "groups": [
-          "СЖД-441 п/гр.1",
-          "СЖД-441 п/гр.2"
-        ],
+        "groups": [],
         "subgroup": "п/гр.1, п/гр.2",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Понедельник",
-        "weekdayNumber": 1,
-        "startTime": "13:45",
-        "endTime": "15:05",
-        "time": "13:45 — 15:05",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_aa2633e2837d"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Строительная климатология",
+        "id": "moscow-rut-miit_193594_w2_f55363ca9c70",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Строительная климатология",
         "teacher": "Саморядов Сергей Валерьевич",
         "room": "536",
         "address": "РОАТ, Часовая 1",
         "groups": [
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Вторник",
-        "weekdayNumber": 2,
-        "startTime": "13:45",
-        "endTime": "15:05",
-        "time": "13:45 — 15:05",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_6d37bc8afb7c"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Электротехника и электромеханика",
+        "id": "moscow-rut-miit_193594_w3_5d3594685052",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Электротехника и электромеханика",
         "teacher": "Дудин Борис Алексеевич",
         "room": "1553",
         "address": "ГУК-1",
         "groups": [
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Среда",
-        "weekdayNumber": 3,
-        "startTime": "13:45",
-        "endTime": "15:05",
-        "time": "13:45 — 15:05",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_06c7a1d08f97"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Изыскания и проектирование железных дорог",
+        "id": "moscow-rut-miit_193594_w1_1f5fefdb97bd",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
         "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Изыскания и проектирование железных дорог",
         "teacher": "Рыжик Екатерина Александровна",
         "room": "356",
         "address": "РОАТ, Часовая 1",
@@ -282,41 +353,42 @@
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Понедельник",
-        "weekdayNumber": 1,
-        "startTime": "15:20",
-        "endTime": "16:40",
-        "time": "15:20 — 16:40",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_1d93c32561bc"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Технология и механизация содержания железнодорожного пути",
+        "id": "moscow-rut-miit_193594_w2_e831f45dc4d8",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
         "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Технология и механизация содержания железнодорожного пути",
         "teacher": "Коваленко Николай Иванович; Куртиков Роман Михайлович",
         "room": "525",
         "address": "РОАТ, Часовая 1",
-        "groups": [
-          "СЖД-441 п/гр.1",
-          "СЖД-441 п/гр.2"
-        ],
+        "groups": [],
         "subgroup": "п/гр.1, п/гр.2",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Вторник",
-        "weekdayNumber": 2,
-        "startTime": "15:20",
-        "endTime": "16:40",
-        "time": "15:20 — 16:40",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_6d3eb15cf668"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Проектная деятельность",
+        "id": "moscow-rut-miit_193594_w1_fbcc8720cd21",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
         "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
         "teacher": "Ноздрачёв Алексей Сергеевич",
         "room": "525",
         "address": "РОАТ, Часовая 1",
@@ -325,20 +397,22 @@
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Понедельник",
-        "weekdayNumber": 1,
-        "startTime": "16:55",
-        "endTime": "18:15",
-        "time": "16:55 — 18:15",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_82822ca52398"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       }
     ],
     "even": [
       {
-        "subject": "Военная подготовка",
+        "id": "moscow-rut-miit_193594_w5_2fa464d5c33b",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
         "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Военная подготовка",
         "teacher": "",
         "room": "",
         "address": "",
@@ -347,68 +421,90 @@
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Пятница",
-        "weekdayNumber": 5,
-        "startTime": "08:30",
-        "endTime": "09:50",
-        "time": "08:30 — 09:50",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_859f0fb0acbc"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Изыскания и проектирование железных дорог",
+        "id": "moscow-rut-miit_193594_w2_7cfc661273c5",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Изыскания и проектирование железных дорог",
         "teacher": "Кожевников Владимир Владимирович",
         "room": "516-516а",
         "address": "РОАТ, Часовая 1",
         "groups": [
-          "СГТ-441",
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "196602",
+            "name": "СГТ-441"
+          },
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Вторник",
-        "weekdayNumber": 2,
-        "startTime": "10:05",
-        "endTime": "11:25",
-        "time": "10:05 — 11:25",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_749d701cff11"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Мосты на железных дорогах",
+        "id": "moscow-rut-miit_193594_w4_e5e4c8a242be",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Мосты на железных дорогах",
         "teacher": "Мазур Евгений Витальевич",
         "room": "520-520а",
         "address": "РОАТ, Часовая 1",
         "groups": [
-          "СГТ-441",
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "196602",
+            "name": "СГТ-441"
+          },
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Четверг",
-        "weekdayNumber": 4,
-        "startTime": "10:05",
-        "endTime": "11:25",
-        "time": "10:05 — 11:25",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_a7760913bcb4"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Изыскания и проектирование железных дорог",
+        "id": "moscow-rut-miit_193594_w1_15ab08122a57",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
         "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Изыскания и проектирование железных дорог",
         "teacher": "Рыжик Екатерина Александровна",
         "room": "356",
         "address": "РОАТ, Часовая 1",
@@ -417,43 +513,55 @@
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Понедельник",
-        "weekdayNumber": 1,
-        "startTime": "11:40",
-        "endTime": "13:00",
-        "time": "11:40 — 13:00",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_caa0c0056afa"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Технология и механизация содержания железнодорожного пути",
+        "id": "moscow-rut-miit_193594_w2_d1e5c78e63c5",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Технология и механизация содержания железнодорожного пути",
         "teacher": "Коваленко Николай Иванович",
         "room": "502",
         "address": "РОАТ, Часовая 1",
         "groups": [
-          "СГТ-441",
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "196602",
+            "name": "СГТ-441"
+          },
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Вторник",
-        "weekdayNumber": 2,
-        "startTime": "11:40",
-        "endTime": "13:00",
-        "time": "11:40 — 13:00",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_433b693e85fa"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Инженерная экология",
+        "id": "moscow-rut-miit_193594_w3_ad02b839f5c2",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
         "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Инженерная экология",
         "teacher": "Мельник Михаил Артурович",
         "room": "5201",
         "address": "ГУК-5",
@@ -462,182 +570,196 @@
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Среда",
-        "weekdayNumber": 3,
-        "startTime": "11:40",
-        "endTime": "13:00",
-        "time": "11:40 — 13:00",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_17927bf61500"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Содержание мостов и тоннелей",
+        "id": "moscow-rut-miit_193594_w4_13bf3aeea6dc",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Содержание мостов и тоннелей",
         "teacher": "Филаткин Андрей Сергеевич",
         "room": "520-520а",
         "address": "РОАТ, Часовая 1",
         "groups": [
-          "СГТ-441",
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "196602",
+            "name": "СГТ-441"
+          },
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Четверг",
-        "weekdayNumber": 4,
-        "startTime": "11:40",
-        "endTime": "13:00",
-        "time": "11:40 — 13:00",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_36e4eed4fdc5"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Мосты на железных дорогах",
+        "id": "moscow-rut-miit_193594_w1_7cb75f9f4384",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
         "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Мосты на железных дорогах",
         "teacher": "Мазур Евгений Витальевич; Фомина Александра Петровна",
         "room": "106",
         "address": "РОАТ, Часовая 1",
-        "groups": [
-          "СЖД-441 п/гр.1",
-          "СЖД-441 п/гр.2"
-        ],
+        "groups": [],
         "subgroup": "п/гр.1, п/гр.2",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Понедельник",
-        "weekdayNumber": 1,
-        "startTime": "13:45",
-        "endTime": "15:05",
-        "time": "13:45 — 15:05",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_d11490e5545b"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Строительная климатология",
+        "id": "moscow-rut-miit_193594_w2_f55363ca9c70",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
         "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Строительная климатология",
         "teacher": "Саморядов Сергей Валерьевич",
         "room": "536",
         "address": "РОАТ, Часовая 1",
         "groups": [
-          "СЖД-441",
-          "СЖД-442",
-          "СЖД-443"
+          {
+            "id": "193595",
+            "name": "СЖД-442"
+          },
+          {
+            "id": "193598",
+            "name": "СЖД-443"
+          }
         ],
         "subgroup": "",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Вторник",
-        "weekdayNumber": 2,
-        "startTime": "13:45",
-        "endTime": "15:05",
-        "time": "13:45 — 15:05",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_8850fe5b7254"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Электротехника и электромеханика",
+        "id": "moscow-rut-miit_193594_w3_0f7f486ed478",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
         "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Электротехника и электромеханика",
         "teacher": "Дудин Борис Алексеевич; Куликов Андрей Андреевич",
         "room": "4430, 4431",
         "address": "ГУК-4",
-        "groups": [
-          "СЖД-441 п/гр.1",
-          "СЖД-441 п/гр.2"
-        ],
+        "groups": [],
         "subgroup": "п/гр.1, п/гр.2",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Среда",
-        "weekdayNumber": 3,
-        "startTime": "13:45",
-        "endTime": "15:05",
-        "time": "13:45 — 15:05",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_11c7f83701c3"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Содержание мостов и тоннелей",
+        "id": "moscow-rut-miit_193594_w4_27245122635f",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
         "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Содержание мостов и тоннелей",
         "teacher": "Афанасьев Владимир Сергеевич; Филаткин Андрей Сергеевич",
         "room": "271",
         "address": "РОАТ, Часовая 2",
-        "groups": [
-          "СЖД-441 п/гр.1",
-          "СЖД-441 п/гр.2"
-        ],
+        "groups": [],
         "subgroup": "п/гр.1, п/гр.2",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Четверг",
-        "weekdayNumber": 4,
-        "startTime": "13:45",
-        "endTime": "15:05",
-        "time": "13:45 — 15:05",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_962d19220f1f"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Мосты на железных дорогах",
+        "id": "moscow-rut-miit_193594_w1_45232240e648",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
         "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Мосты на железных дорогах",
         "teacher": "Мазур Евгений Витальевич; Фомина Александра Петровна",
         "room": "106",
         "address": "РОАТ, Часовая 1",
-        "groups": [
-          "СЖД-441 п/гр.1",
-          "СЖД-441 п/гр.2"
-        ],
+        "groups": [],
         "subgroup": "п/гр.1, п/гр.2",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Понедельник",
-        "weekdayNumber": 1,
-        "startTime": "15:20",
-        "endTime": "16:40",
-        "time": "15:20 — 16:40",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_700a5e2abe29"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Технология и механизация содержания железнодорожного пути",
+        "id": "moscow-rut-miit_193594_w2_e831f45dc4d8",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
         "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Технология и механизация содержания железнодорожного пути",
         "teacher": "Коваленко Николай Иванович; Куртиков Роман Михайлович",
         "room": "525",
         "address": "РОАТ, Часовая 1",
-        "groups": [
-          "СЖД-441 п/гр.1",
-          "СЖД-441 п/гр.2"
-        ],
+        "groups": [],
         "subgroup": "п/гр.1, п/гр.2",
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Вторник",
-        "weekdayNumber": 2,
-        "startTime": "15:20",
-        "endTime": "16:40",
-        "time": "15:20 — 16:40",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_c6e74515c175"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Строительная климатология",
+        "id": "moscow-rut-miit_193594_w4_388e4c2fef30",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
         "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Строительная климатология",
         "teacher": "Саморядов Сергей Валерьевич",
         "room": "514",
         "address": "РОАТ, Часовая 1",
@@ -646,18 +768,20 @@
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Четверг",
-        "weekdayNumber": 4,
-        "startTime": "15:20",
-        "endTime": "16:40",
-        "time": "15:20 — 16:40",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_b7c3f1d196ee"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       },
       {
-        "subject": "Проектная деятельность",
+        "id": "moscow-rut-miit_193594_w1_fbcc8720cd21",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
         "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
         "teacher": "Ноздрачёв Алексей Сергеевич",
         "room": "525",
         "address": "РОАТ, Часовая 1",
@@ -666,23 +790,17 @@
         "note": "",
         "isOnline": false,
         "onlineUrl": "",
-        "weekday": "Понедельник",
-        "weekdayNumber": 1,
-        "startTime": "16:55",
-        "endTime": "18:15",
-        "time": "16:55 — 18:15",
-        "category": "lesson",
-        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-        "id": "moscow-rut-miit_193594_37368137ebd2"
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
       }
     ]
   },
   "exceptions": [],
   "meta": {
     "source": "miit.ru",
-    "parserVersion": "4.1-current-period",
+    "parserVersion": "3.3-current-catalog-unified",
     "timezone": "Europe/Moscow",
-    "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1",
-    "errors": []
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/193594?start=2026-09-01&type=1"
   }
 }

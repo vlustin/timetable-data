@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "216028",
+  "group": "ЭМУ-171",
+  "semester": {
+    "startDate": "2026-09-01",
+    "endDate": "2027-01-04",
+    "firstWeekParity": "odd"
+  },
+  "lessons": {
+    "odd": [],
+    "even": []
+  },
+  "events": [],
+  "exceptions": [],
+  "updatedAt": "2026-10-06T11:07:34+03:00",
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.3-current-catalog-unified",
+    "timezone": "Europe/Moscow",
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/216028?start=2026-09-01&type=2",
+    "scheduleFormat": "dated",
+    "scheduleStatus": "current"
+  }
+}

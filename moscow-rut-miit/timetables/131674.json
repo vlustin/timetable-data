@@ -4,155 +4,885 @@
   "university": "РУТ (МИИТ)",
   "groupId": "131674",
   "group": "ЭЭФ-211",
-  "updatedAt": "2026-06-12T20:54:30+03:00",
+  "updatedAt": "2026-10-06T10:50:38+03:00",
   "semester": {
-    "startDate": "2026-06-01",
-    "endDate": "2026-06-30",
+    "startDate": "2026-09-01",
+    "endDate": "2027-01-04",
     "firstWeekParity": "odd"
   },
-  "events": [
-    {
-      "id": "moscow-rut-miit_131674_2026-06-17_579f9e09a5c1",
-      "date": "2026-06-17",
-      "weekday": "Среда",
-      "weekdayNumber": 3,
-      "time": "09:00 — 10:00",
-      "startTime": "09:00",
-      "endTime": "10:00",
-      "kind": "Консультация",
-      "category": "consultation",
-      "subject": "Маркетинг",
-      "teacher": "Смирнова Жанна Владимировна",
-      "room": "2405",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_131674_2026-06-19_72b9fd01a4e9",
-      "date": "2026-06-19",
-      "weekday": "Пятница",
-      "weekdayNumber": 5,
-      "time": "11:00 — 18:00",
-      "startTime": "11:00",
-      "endTime": "18:00",
-      "kind": "Экзамен",
-      "category": "exam",
-      "subject": "Маркетинг",
-      "teacher": "Смирнова Жанна Владимировна",
-      "room": "2405",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "Экзамен",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_131674_2026-06-23_ea25db93db63",
-      "date": "2026-06-23",
-      "weekday": "Вторник",
-      "weekdayNumber": 2,
-      "time": "09:00 — 10:00",
-      "startTime": "09:00",
-      "endTime": "10:00",
-      "kind": "Консультация",
-      "category": "consultation",
-      "subject": "Экономика предприятия",
-      "teacher": "Данилина Мария Геннадьевна",
-      "room": "3412",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_131674_2026-06-24_140d15de9c9d",
-      "date": "2026-06-24",
-      "weekday": "Среда",
-      "weekdayNumber": 3,
-      "time": "11:00 — 18:00",
-      "startTime": "11:00",
-      "endTime": "18:00",
-      "kind": "Экзамен",
-      "category": "exam",
-      "subject": "Экономика предприятия",
-      "teacher": "Данилина Мария Геннадьевна",
-      "room": "3412",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "Экзамен",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_131674_2026-06-30_d8ee7298dd34",
-      "date": "2026-06-30",
-      "weekday": "Вторник",
-      "weekdayNumber": 2,
-      "time": "09:00 — 10:00",
-      "startTime": "09:00",
-      "endTime": "10:00",
-      "kind": "Консультация",
-      "category": "consultation",
-      "subject": "Эконометрика",
-      "teacher": "Ефимов Геннадий Николаевич",
-      "room": "4420",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-06-01&type=1"
-    },
-    {
-      "id": "moscow-rut-miit_131674_2026-07-01_675872fc51e8",
-      "date": "2026-07-01",
-      "weekday": "Среда",
-      "weekdayNumber": 3,
-      "time": "11:00 — 18:00",
-      "startTime": "11:00",
-      "endTime": "18:00",
-      "kind": "Экзамен",
-      "category": "exam",
-      "subject": "Эконометрика",
-      "teacher": "Ефимов Геннадий Николаевич",
-      "room": "4420",
-      "address": "",
-      "groups": [],
-      "subgroup": "",
-      "note": "Экзамен",
-      "isOnline": false,
-      "onlineUrl": "",
-      "sourceType": 1,
-      "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-06-01&type=1"
-    }
-  ],
+  "events": [],
   "lessons": {
-    "odd": [],
-    "even": []
+    "odd": [
+      {
+        "id": "moscow-rut-miit_131674_w5_554c739a2cc3",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Статистика",
+        "teacher": "Лебедева Софья Леонидовна",
+        "room": "3508",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w2_774eb41b9e75",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Ишханян Маргарита Владимировна",
+        "room": "3408",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w3_93b1c73e8d40",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Правовая культура",
+        "teacher": "Липунов Валерий Иванович",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "193993",
+            "name": "ЭСБ-241"
+          },
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w5_eaa3be8c2040",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Эконометрика",
+        "teacher": "Ефимов Геннадий Николаевич",
+        "room": "3402",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w2_3ecac9965858",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Финансы",
+        "teacher": "Коцоева Валерия Сергеевна; Соколов Юрий Игоревич",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "196455",
+            "name": "ЭУМ-211"
+          },
+          {
+            "id": "194594",
+            "name": "ЭУЦ-211"
+          },
+          {
+            "id": "131671",
+            "name": "ЭЭБ-211"
+          },
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w3_33dc7281d916",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Финансы",
+        "teacher": "Коцоева Валерия Сергеевна",
+        "room": "3501",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w5_6463538bffcc",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Методы оптимальных решений",
+        "teacher": "Гаврилычева Мария Геннадьевна",
+        "room": "3409",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w1_71981905cd71",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Угольникова Ирина Анатольевна",
+        "room": "4328",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w1_1edfd02f985f",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Павлова Анна Юрьевна",
+        "room": "4330",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.1",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w2_796ce1094c38",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Методы оптимальных решений",
+        "teacher": "Фроловичев Александр Иванович",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w4_6e04059a5a82",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Статистика",
+        "teacher": "Лебедева Софья Леонидовна",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "131671",
+            "name": "ЭЭБ-211"
+          },
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w1_e6031bebb185",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основы менеджмента",
+        "teacher": "Лобас Яков Дмитриевич",
+        "room": "3406",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w4_cd2e7384f64c",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Эконометрика",
+        "teacher": "Ефимов Геннадий Николаевич",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "131671",
+            "name": "ЭЭБ-211"
+          },
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          },
+          {
+            "id": "130745",
+            "name": "ЭЭУ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      }
+    ],
+    "even": [
+      {
+        "id": "moscow-rut-miit_131674_w3_d201ff4095d2",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основы менеджмента",
+        "teacher": "Флягина Татьяна Анатольевна",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "131671",
+            "name": "ЭЭБ-211"
+          },
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w5_554c739a2cc3",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Статистика",
+        "teacher": "Лебедева Софья Леонидовна",
+        "room": "3508",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w2_774eb41b9e75",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Ишханян Маргарита Владимировна",
+        "room": "3408",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w3_93b1c73e8d40",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Правовая культура",
+        "teacher": "Липунов Валерий Иванович",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "193993",
+            "name": "ЭСБ-241"
+          },
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w5_eaa3be8c2040",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Эконометрика",
+        "teacher": "Ефимов Геннадий Николаевич",
+        "room": "3402",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w1_7ddbdb27c4e0",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Угольникова Ирина Анатольевна",
+        "room": "4328",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w1_9ebe8b343f8b",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Павлова Анна Юрьевна",
+        "room": "4330",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.1",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w2_3ecac9965858",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Финансы",
+        "teacher": "Коцоева Валерия Сергеевна; Соколов Юрий Игоревич",
+        "room": "3303",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "196455",
+            "name": "ЭУМ-211"
+          },
+          {
+            "id": "194594",
+            "name": "ЭУЦ-211"
+          },
+          {
+            "id": "131671",
+            "name": "ЭЭБ-211"
+          },
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w3_33dc7281d916",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Финансы",
+        "teacher": "Коцоева Валерия Сергеевна",
+        "room": "3501",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w4_42b317b0c036",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основы менеджмента",
+        "teacher": "Лобас Яков Дмитриевич",
+        "room": "3206",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w5_6463538bffcc",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Методы оптимальных решений",
+        "teacher": "Гаврилычева Мария Геннадьевна",
+        "room": "3409",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w1_71981905cd71",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Угольникова Ирина Анатольевна",
+        "room": "4328",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w1_1edfd02f985f",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Иностранный язык",
+        "teacher": "Павлова Анна Юрьевна",
+        "room": "4330",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.1",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w2_796ce1094c38",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Методы оптимальных решений",
+        "teacher": "Фроловичев Александр Иванович",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w4_6e04059a5a82",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Статистика",
+        "teacher": "Лебедева Софья Леонидовна",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "131671",
+            "name": "ЭЭБ-211"
+          },
+          {
+            "id": "194855",
+            "name": "ЭЭЛ-211"
+          },
+          {
+            "id": "194415",
+            "name": "ЭЭП-211"
+          },
+          {
+            "id": "194722",
+            "name": "ЭЭС-211"
+          },
+          {
+            "id": "194600",
+            "name": "ЭЭТ-211"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_131674_w1_ac1274e9eb98",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Правовая культура",
+        "teacher": "Липунов Валерий Иванович",
+        "room": "3406",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
+      }
+    ]
   },
   "exceptions": [],
   "meta": {
     "source": "miit.ru",
-    "parserVersion": "3.2-js-smart-safe",
+    "parserVersion": "3.3-current-catalog-unified",
     "timezone": "Europe/Moscow",
-    "errors": []
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/131674?start=2026-09-01&type=1"
   }
 }

@@ -1,0 +1,1155 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "190051",
+  "group": "УЭМ-542",
+  "updatedAt": "2026-10-06T10:43:10+03:00",
+  "semester": {
+    "startDate": "2026-09-01",
+    "endDate": "2027-01-11",
+    "firstWeekParity": "odd"
+  },
+  "events": [],
+  "lessons": {
+    "odd": [
+      {
+        "id": "moscow-rut-miit_190051_w2_c6e3faf4eef5",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Современные методы диспетчерского управления перевозочным процессом",
+        "teacher": "Сугоровский Антон Васильевич",
+        "room": "1323",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w2_4ff6e905c4eb",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Техническая эксплуатация железнодорожного транспорта и безопасность движения",
+        "teacher": "Савельев Максим Юрьевич",
+        "room": "1323",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190078",
+            "name": "УЭИ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w1_5826abef0b91",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Автоматизация управления эксплуатационной работой на железнодорожном транспорте",
+        "teacher": "Сугоровский Антон Васильевич",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "190078",
+            "name": "УЭИ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w2_fde401cb39d4",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Транспортное право",
+        "teacher": "Астафьев Алексей Владимирович",
+        "room": "1529",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_53211082d0be",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Современные методы диспетчерского управления перевозочным процессом",
+        "teacher": "Сугоровский Антон Васильевич; Сугоровский Артём Васильевич",
+        "room": "1502, 1505",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w1_3be2763bdccc",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Управление эксплуатационной работой",
+        "teacher": "Коваленко Нина Александровна",
+        "room": "6405",
+        "address": "ГУК-6",
+        "groups": [
+          {
+            "id": "190078",
+            "name": "УЭИ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w2_1a4431ca763f",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Транспортный бизнес",
+        "teacher": "Соколов Михаил Юрьевич",
+        "room": "1121",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_d85bba00ad17",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Современные методы диспетчерского управления перевозочным процессом",
+        "teacher": "Сугоровский Антон Васильевич; Сугоровский Артём Васильевич",
+        "room": "1502, 1505",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w1_3457b97169b2",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Единый сетевой технологический процесс",
+        "teacher": "Панин Виталий Владимирович",
+        "room": "6405",
+        "address": "ГУК-6",
+        "groups": [
+          {
+            "id": "190028",
+            "name": "УЭБ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w2_1fc3b66f63a3",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Условия перевозок и тарифы в международных сообщениях",
+        "teacher": "Козлова Ольга Валентиновна",
+        "room": "5203",
+        "address": "ГУК-5",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_4fa5fe76c9cd",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Лахметкина Наталья Юрьевна",
+        "room": "1306",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_23460cb91c2d",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Сидраков Александр Андреевич",
+        "room": "1541",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.3",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_f9304e826432",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Ершов Андрей Дмитриевич",
+        "room": "1523",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.5",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_809e45861c8f",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Батурин Александр Павлович",
+        "room": "1323",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.4",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_e2c5748306b0",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Синицына Анна Сергеевна",
+        "room": "1306",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.1",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_fb9f3770f5c7",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Лахметкина Наталья Юрьевна",
+        "room": "1306",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_4cbab6cb17a1",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Калинин Кирилл Антонович",
+        "room": "1317",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.8",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_3ea26f9b61b0",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Ершов Андрей Дмитриевич",
+        "room": "1407",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.7",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_5487dfd6ac59",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Янев Живко",
+        "room": "1525",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.6",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_994ac207b360",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Середов Евгений Александрович",
+        "room": "1527",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.5",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_3feb048103bc",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Шмаль Вадим Николаевич",
+        "room": "1520",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.4",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_beb3e5588a61",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Минаков Павел Андреевич",
+        "room": "1506",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.3",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_1f8713d9c397",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основные направления развития грузовой и коммерческой работы, логистических технологий на трансп...",
+        "teacher": "Синицына Анна Сергеевна",
+        "room": "1306",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "п/гр.1",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      }
+    ],
+    "even": [
+      {
+        "id": "moscow-rut-miit_190051_w2_1873757591fe",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Автоматизация управления эксплуатационной работой на железнодорожном транспорте",
+        "teacher": "Сугоровский Антон Васильевич; Шмаль Вадим Николаевич",
+        "room": "1518",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w2_a192f86f6d08",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Автоматизация управления эксплуатационной работой на железнодорожном транспорте",
+        "teacher": "Сугоровский Антон Васильевич; Шмаль Вадим Николаевич",
+        "room": "1518",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w2_c6e3faf4eef5",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Современные методы диспетчерского управления перевозочным процессом",
+        "teacher": "Сугоровский Антон Васильевич",
+        "room": "1323",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w4_1de0a7ebc4e1",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Техническая эксплуатация железнодорожного транспорта и безопасность движения",
+        "teacher": "Орешин Андрей Алексеевич",
+        "room": "1551",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w2_4ff6e905c4eb",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Техническая эксплуатация железнодорожного транспорта и безопасность движения",
+        "teacher": "Савельев Максим Юрьевич",
+        "room": "1323",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190078",
+            "name": "УЭИ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w4_0211895af264",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Взаимодействие видов транспорта",
+        "teacher": "Евреенова Надежда Юрьевна",
+        "room": "4534",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w1_5826abef0b91",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Автоматизация управления эксплуатационной работой на железнодорожном транспорте",
+        "teacher": "Сугоровский Антон Васильевич",
+        "room": "3506",
+        "address": "ГУК-3",
+        "groups": [
+          {
+            "id": "190078",
+            "name": "УЭИ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w2_d58170deaef2",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Управление эксплуатационной работой",
+        "teacher": "Ждакаев Сергей Олегович",
+        "room": "1416",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_a1350d097272",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Транспортный бизнес",
+        "teacher": "Бутыркин Александр Яковлевич",
+        "room": "1323",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190078",
+            "name": "УЭИ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w1_3be2763bdccc",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Управление эксплуатационной работой",
+        "teacher": "Коваленко Нина Александровна",
+        "room": "6405",
+        "address": "ГУК-6",
+        "groups": [
+          {
+            "id": "190078",
+            "name": "УЭИ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_28fdbfb52329",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Транспортное право",
+        "teacher": "Куренков Петр Владимирович",
+        "room": "1323",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190078",
+            "name": "УЭИ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w5_7d82f8c20c4d",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Условия перевозок и тарифы в международных сообщениях",
+        "teacher": "Столяров Евгений Евгеньевич",
+        "room": "1553",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190028",
+            "name": "УЭБ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w1_3457b97169b2",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Единый сетевой технологический процесс",
+        "teacher": "Панин Виталий Владимирович",
+        "room": "6405",
+        "address": "ГУК-6",
+        "groups": [
+          {
+            "id": "190028",
+            "name": "УЭБ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_3c5eb485768b",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Полякова Вера Константиновна",
+        "room": "3510",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w5_3f92ebc34f99",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Условия перевозок и тарифы в международных сообщениях",
+        "teacher": "Столяров Евгений Евгеньевич",
+        "room": "1553",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "190028",
+            "name": "УЭБ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w1_fef6fc10ff41",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Взаимодействие видов транспорта",
+        "teacher": "Прокофьев Михаил Николаевич",
+        "room": "6405",
+        "address": "ГУК-6",
+        "groups": [
+          {
+            "id": "190078",
+            "name": "УЭИ-541"
+          },
+          {
+            "id": "190050",
+            "name": "УЭМ-541"
+          },
+          {
+            "id": "190052",
+            "name": "УЭМ-543"
+          },
+          {
+            "id": "190053",
+            "name": "УЭМ-544"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_190051_w3_4e30505c08de",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "20:00 — 21:20",
+        "startTime": "20:00",
+        "endTime": "21:20",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Единый сетевой технологический процесс",
+        "teacher": "Полякова Вера Константиновна",
+        "room": "3510",
+        "address": "ГУК-3",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+      }
+    ]
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.3-current-catalog-unified",
+    "timezone": "Europe/Moscow",
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/190051?start=2026-09-01&type=1"
+  }
+}

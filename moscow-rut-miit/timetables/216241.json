@@ -1,0 +1,919 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "216241",
+  "group": "ЦЭЦ-141",
+  "updatedAt": "2026-10-06T10:35:15+03:00",
+  "semester": {
+    "startDate": "2026-09-01",
+    "endDate": "2027-01-04",
+    "firstWeekParity": "odd"
+  },
+  "events": [],
+  "lessons": {
+    "odd": [
+      {
+        "id": "moscow-rut-miit_216241_w4_079b65aaf625",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Иванцов Артём Николаевич",
+        "room": "1553",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w5_9e060ca5a04e",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Физическая культура и спорт",
+        "teacher": "Фёдорова Татьяна Юрьевна",
+        "room": "Общежитие № 5 (ул. Космонавтов д. 11)",
+        "address": "Дом физкультуры",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w1_5c60b2e2e175",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "История транспорта",
+        "teacher": "Троненкова Ольга Михайловна",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w4_2ddf83d91ac2",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "11:40 — 13:00",
+        "startTime": "11:40",
+        "endTime": "13:00",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Основы российской государственности",
+        "teacher": "Щадилова Ирина Сергеевна",
+        "room": "1553",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w1_b2ff98696ca7",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "История России",
+        "teacher": "Троненкова Ольга Михайловна",
+        "room": "1553",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w2_a56765100360",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "История транспорта",
+        "teacher": "Троненкова Ольга Михайловна",
+        "room": "1309б",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w5_01d3a6d875b6",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Информатика и основы искусственного интеллекта",
+        "teacher": "Разживайкин Игорь Станиславович",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w1_029bd88367e3",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Начертательная геометрия и основы инженерной графики",
+        "teacher": "Болотина Александра Борисовна",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w2_d775a0cd809d",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "История России",
+        "teacher": "Троненкова Ольга Михайловна",
+        "room": "1309б",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w3_d873d6966a83",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Шевченко Анастасия Александровна",
+        "room": "1307",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w5_600781e86aae",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Практикум по самоорганизации",
+        "teacher": "Рудыка Наталья Алексеевна",
+        "room": "1529",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w1_43fa4815092c",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Начертательная геометрия и основы инженерной графики",
+        "teacher": "Муравьев Сергей Николаевич; Титова Раиса Магзумовна",
+        "room": "2414",
+        "address": "ГУК-2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w2_a73e81f8f109",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Иванцов Артём Николаевич",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w3_364eb1bfc3f8",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Информатика и основы искусственного интеллекта",
+        "teacher": "Заманов Евгений Альбертович; Разживайкин Игорь Станиславович",
+        "room": "1319",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w5_694462fd7ee9",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Чунихина Ирина Анатольевна",
+        "room": "4511",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w3_e7adc67077ef",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Английский язык",
+        "teacher": "Сахаров Юрий Александрович",
+        "room": "4328",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.1",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w3_d636f0de7c42",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Английский язык",
+        "teacher": "Симонова Светлана Валерьевна",
+        "room": "4327",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      }
+    ],
+    "even": [
+      {
+        "id": "moscow-rut-miit_216241_w4_8f8b52116161",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "08:30 — 09:50",
+        "startTime": "08:30",
+        "endTime": "09:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "История России",
+        "teacher": "Троненкова Ольга Михайловна",
+        "room": "1307",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w4_68cc20792619",
+        "date": "",
+        "weekday": "Четверг",
+        "weekdayNumber": 4,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Основы российской государственности",
+        "teacher": "Щадилова Ирина Сергеевна",
+        "room": "1121",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w5_9e060ca5a04e",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "10:05 — 11:25",
+        "startTime": "10:05",
+        "endTime": "11:25",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Физическая культура и спорт",
+        "teacher": "Фёдорова Татьяна Юрьевна",
+        "room": "Общежитие № 5 (ул. Космонавтов д. 11)",
+        "address": "Дом физкультуры",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w1_b2ff98696ca7",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "История России",
+        "teacher": "Троненкова Ольга Михайловна",
+        "room": "1553",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w2_246ed2b9b3f6",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Чунихина Ирина Анатольевна",
+        "room": "12328",
+        "address": "ГУК-12",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w5_01d3a6d875b6",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "13:45 — 15:05",
+        "startTime": "13:45",
+        "endTime": "15:05",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Информатика и основы искусственного интеллекта",
+        "teacher": "Разживайкин Игорь Станиславович",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w1_029bd88367e3",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Начертательная геометрия и основы инженерной графики",
+        "teacher": "Болотина Александра Борисовна",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w2_ccf8dcb42d07",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Чунихина Ирина Анатольевна",
+        "room": "12328",
+        "address": "ГУК-12",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w3_d873d6966a83",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Проектная деятельность",
+        "teacher": "Шевченко Анастасия Александровна",
+        "room": "1307",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w5_600781e86aae",
+        "date": "",
+        "weekday": "Пятница",
+        "weekdayNumber": 5,
+        "time": "15:20 — 16:40",
+        "startTime": "15:20",
+        "endTime": "16:40",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Практикум по самоорганизации",
+        "teacher": "Рудыка Наталья Алексеевна",
+        "room": "1529",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w1_43fa4815092c",
+        "date": "",
+        "weekday": "Понедельник",
+        "weekdayNumber": 1,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Начертательная геометрия и основы инженерной графики",
+        "teacher": "Муравьев Сергей Николаевич; Титова Раиса Магзумовна",
+        "room": "2414",
+        "address": "ГУК-2",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w2_a73e81f8f109",
+        "date": "",
+        "weekday": "Вторник",
+        "weekdayNumber": 2,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лекция",
+        "category": "lesson",
+        "subject": "Математика",
+        "teacher": "Иванцов Артём Николаевич",
+        "room": "1333",
+        "address": "ГУК-1",
+        "groups": [
+          {
+            "id": "216129",
+            "name": "ЦДД-141"
+          },
+          {
+            "id": "216127",
+            "name": "ЦДД-142"
+          },
+          {
+            "id": "216128",
+            "name": "ЦДД-143"
+          },
+          {
+            "id": "216240",
+            "name": "ЦИЗ-141"
+          }
+        ],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w3_364eb1bfc3f8",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "16:55 — 18:15",
+        "startTime": "16:55",
+        "endTime": "18:15",
+        "kind": "Лабораторная работа",
+        "category": "lesson",
+        "subject": "Информатика и основы искусственного интеллекта",
+        "teacher": "Заманов Евгений Альбертович; Разживайкин Игорь Станиславович",
+        "room": "1319",
+        "address": "ГУК-1",
+        "groups": [],
+        "subgroup": "",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w3_d636f0de7c42",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Английский язык",
+        "teacher": "Симонова Светлана Валерьевна",
+        "room": "4327",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.2",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      },
+      {
+        "id": "moscow-rut-miit_216241_w3_e7adc67077ef",
+        "date": "",
+        "weekday": "Среда",
+        "weekdayNumber": 3,
+        "time": "18:30 — 19:50",
+        "startTime": "18:30",
+        "endTime": "19:50",
+        "kind": "Практическое занятие",
+        "category": "lesson",
+        "subject": "Английский язык",
+        "teacher": "Сахаров Юрий Александрович",
+        "room": "4328",
+        "address": "ГУК-4",
+        "groups": [],
+        "subgroup": "п/гр.1",
+        "note": "",
+        "isOnline": false,
+        "onlineUrl": "",
+        "sourceType": 1,
+        "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+      }
+    ]
+  },
+  "exceptions": [],
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.3-current-catalog-unified",
+    "timezone": "Europe/Moscow",
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/216241?start=2026-09-01&type=1"
+  }
+}

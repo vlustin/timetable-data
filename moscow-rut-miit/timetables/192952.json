@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "universityId": "moscow-rut-miit",
+  "university": "РУТ (МИИТ)",
+  "groupId": "192952",
+  "group": "ОДДу-431",
+  "semester": {
+    "startDate": "2026-09-01",
+    "endDate": "2027-03-01",
+    "firstWeekParity": "odd"
+  },
+  "lessons": {
+    "odd": [],
+    "even": []
+  },
+  "events": [],
+  "exceptions": [],
+  "updatedAt": "2026-10-06T11:07:28+03:00",
+  "meta": {
+    "source": "miit.ru",
+    "parserVersion": "3.3-current-catalog-unified",
+    "timezone": "Europe/Moscow",
+    "errors": [],
+    "sourceUrl": "https://www.miit.ru/timetable/192952?start=2026-09-01&type=2",
+    "scheduleFormat": "dated",
+    "scheduleStatus": "current"
+  }
+}
